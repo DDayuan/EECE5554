@@ -109,9 +109,9 @@ catkin_package(
 #  DEPENDS system_lib
 )
 
-catkin_install_python(PROGRAMS scripts/driver.py scripts/try_read_gps.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
+#catkin_install_python(PROGRAMS scripts/driver.py scripts/try_read_gps.py
+ # DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+#)
 ###########
 ## Build ##
 ###########

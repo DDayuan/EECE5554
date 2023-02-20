@@ -57,10 +57,11 @@ def readgps():
             #msg.Header.stamp.secs = int(data[1])
             msg.Header.stamp.secs = int(utc_final_secs)
             msg.Header.stamp.nsecs = int(utc_final_nsecs)
-            msg.Header.frame_id = "GPS1_FRAME"
+            #msg.Header.frame_id = "GPS1_FRAME"
             msg.Latitude = new_lat
             msg.Longitude = new_longi
             msg.Altitude = alti
+            msg.Header.frame_id = "GPS1_FRAME"
             msg.HDOP = float(data[8])
             msg.UTM_easting = utm_data[0]
             msg.UTM_northing = utm_data[1]

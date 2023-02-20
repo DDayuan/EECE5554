@@ -8,6 +8,7 @@ project(gps_driver)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
+  roscpp
   rospy
   std_msgs
   message_generation
@@ -50,7 +51,6 @@ find_package(catkin REQUIRED COMPONENTS
  add_message_files(
    FILES
    gps_msg.msg
-
  )
 
 ## Generate services in the 'srv' folder
@@ -105,13 +105,10 @@ find_package(catkin REQUIRED COMPONENTS
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES gps_driver
-#  CATKIN_DEPENDS rospy std_msgs
+  CATKIN_DEPENDS roscpp rospy std_msgs message_runtime
 #  DEPENDS system_lib
 )
 
-#catkin_install_python(PROGRAMS scripts/driver.py scripts/try_read_gps.py
- # DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-#)
 ###########
 ## Build ##
 ###########
@@ -156,19 +153,16 @@ include_directories(
 #############
 ## Install ##
 #############
-catkin_install_python(PROGRAMS python/driver.py
-  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
 
 # all install targets should use catkin DESTINATION variables
 # See http://ros.org/doc/api/catkin/html/adv_user_guide/variables.html
 
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
-# catkin_install_python(PROGRAMS
-#   scripts/my_python_script
-#   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-# )
+ catkin_install_python(PROGRAMS
+   python/driver.py
+   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+ )
 
 ## Mark executables for installation
 ## See http://docs.ros.org/melodic/api/catkin/html/howto/format1/building_executables.html

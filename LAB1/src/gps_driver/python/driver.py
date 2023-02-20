@@ -5,17 +5,18 @@ import utm
 import argparse
 from gps_driver.msg import gps_msg
 
-#latitude = ''
-#longitude = ''
+
 def readgps():
+    port = rospy.get_param('~port', '/dev/ttyUSB0')
+    #port = arg_port if arg_port != 'None' else '/dev/ttyUSB0'
     #parser = argparse.ArgumentParser(description= "port path")
     #parser.add_argument('port', metavar='port', type = str, help = 'enter port path')
     #args = parser.parse_args()
     #port1 = args.port
     #print(port1)
 
-    ser = serial.Serial('/dev/ttyUSB0', 4800, timeout = 1)
-    #ser = serial.Serial(port1, 4800, timeout = 1)
+    #ser = serial.Serial('/dev/ttyUSB0', 4800, timeout = 1)
+    ser = serial.Serial(port, 4800, timeout = 1)
 
     rospy.init_node("gps_Publisher", anonymous=True)
     pub = rospy.Publisher("/gps", gps_msg, queue_size= 10)
@@ -56,7 +57,7 @@ def readgps():
             #msg.Header.stamp.secs = int(data[1])
             msg.Header.stamp.secs = int(utc_final_secs)
             msg.Header.stamp.nsecs = int(utc_final_nsecs)
-            msg.Header.frame_id ="GPS1_Frame"
+            msg.Header.frame_id = "GPS1_FRAME"
             msg.Latitude = new_lat
             msg.Longitude = new_longi
             msg.Altitude = alti

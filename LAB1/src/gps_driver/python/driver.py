@@ -45,7 +45,10 @@ def readgps():
 
             if data[5]=='W':
                 longi = -longi
-
+                
+            header = Header()
+            header.frame_id = "GPS1_FRAME"
+            msg.Header = header
             lat_degree = lat // 100
             longi_degree = longi // 100
             lat_min = lat - (lat_degree * 100)

@@ -7,6 +7,7 @@ from gps_driver.msg import gps_msg
 
 
 def readgps():
+    rospy.init_node("gps_Publisher", anonymous=True)
     port = rospy.get_param('~port', '/dev/ttyUSB0')
     #port = arg_port if arg_port != 'None' else '/dev/ttyUSB0'
     #parser = argparse.ArgumentParser(description= "port path")
@@ -14,11 +15,15 @@ def readgps():
     #args = parser.parse_args()
     #port1 = args.port
     #print(port1)
+    port = rospy.get_param('/gps_Publisher/port')
+    
+	#baud = rospy.get_param('~gps_baudrate', 57600)
+    #ser = serial.Serial(port, 57600, timeout=1)
 
     #ser = serial.Serial('/dev/ttyUSB0', 4800, timeout = 1)
     ser = serial.Serial(port, 4800, timeout = 1)
 
-    rospy.init_node("gps_Publisher", anonymous=True)
+    #rospy.init_node("gps_Publisher", anonymous=True)
     pub = rospy.Publisher("/gps", gps_msg, queue_size= 10)
     msg = gps_msg()
     while not rospy.is_shutdown():

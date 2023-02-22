@@ -1,0 +1,5510 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Scanning ROS bag file "occ_walking.bag"
+# for the following topics:
+#    ALL TOPICS in the bag file
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# =======================================
+# topic:           /gnss
+# msg_count:       1
+# timestamp (sec): 1676575745.005424976
+# - - -
+Header: 
+  seq: 4
+  stamp: 
+    secs: 70145
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33797883333333
+Longitude: -71.08641183333333
+Altitude: 32.599998474121094
+HDOP: 0.7599999904632568
+UTM_easting: 328122.11044035974
+UTM_northing: 4689410.917463168
+UTC: "192905.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192905.00,4220.27873,N,07105.18471,W,1,12,0.76,32.6,M,-33.2,M,,*49"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       2
+# timestamp (sec): 1676575746.013375521
+# - - -
+Header: 
+  seq: 5
+  stamp: 
+    secs: 70146
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33796816666667
+Longitude: -71.08641366666667
+Altitude: 32.599998474121094
+HDOP: 0.7099999785423279
+UTM_easting: 328121.93034253875
+UTM_northing: 4689409.736717034
+UTC: "192906.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192906.00,4220.27809,N,07105.18482,W,1,12,0.71,32.6,M,-33.2,M,,*4C"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       3
+# timestamp (sec): 1676575746.999584198
+# - - -
+Header: 
+  seq: 6
+  stamp: 
+    secs: 70147
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337958
+Longitude: -71.08641666666666
+Altitude: 32.599998474121094
+HDOP: 0.75
+UTM_easting: 328121.6554933192
+UTM_northing: 4689408.613850372
+UTC: "192907.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192907.00,4220.27748,N,07105.18500,W,1,12,0.75,32.6,M,-33.2,M,,*48"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       4
+# timestamp (sec): 1676575748.005469561
+# - - -
+Header: 
+  seq: 7
+  stamp: 
+    secs: 70148
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33794783333333
+Longitude: -71.08641933333334
+Altitude: 32.400001525878906
+HDOP: 0.7599999904632568
+UTM_easting: 328121.40810506983
+UTM_northing: 4689407.490309926
+UTC: "192908.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192908.00,4220.27687,N,07105.18516,W,1,12,0.76,32.4,M,-33.2,M,,*43"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       5
+# timestamp (sec): 1676575749.005117655
+# - - -
+Header: 
+  seq: 8
+  stamp: 
+    secs: 70149
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337937833333335
+Longitude: -71.08642116666667
+Altitude: 32.29999923706055
+HDOP: 0.7200000286102295
+UTM_easting: 328121.2298234808
+UTM_northing: 4689406.383592059
+UTC: "192909.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192909.00,4220.27627,N,07105.18527,W,1,12,0.72,32.3,M,-33.2,M,,*49"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       6
+# timestamp (sec): 1676575749.974633694
+# - - -
+Header: 
+  seq: 9
+  stamp: 
+    secs: 70150
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33793266666667
+Longitude: -71.08642183333333
+Altitude: 32.20000076293945
+HDOP: 0.6000000238418579
+UTM_easting: 328121.16082435905
+UTM_northing: 4689405.811220717
+UTC: "192910.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192910.00,4220.27596,N,07105.18531,W,1,12,0.60,32.2,M,-33.2,M,,*4D"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       7
+# timestamp (sec): 1676575750.978240967
+# - - -
+Header: 
+  seq: 10
+  stamp: 
+    secs: 70151
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33792566666666
+Longitude: -71.08642233333333
+Altitude: 32.29999923706055
+HDOP: 0.6100000143051147
+UTM_easting: 328121.1005606836
+UTM_northing: 4689405.034934792
+UTC: "192911.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192911.00,4220.27554,N,07105.18534,W,1,12,0.61,32.3,M,-33.2,M,,*47"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       8
+# timestamp (sec): 1676575751.982630014
+# - - -
+Header: 
+  seq: 11
+  stamp: 
+    secs: 70152
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33791816666667
+Longitude: -71.08642233333333
+Altitude: 32.400001525878906
+HDOP: 0.7099999785423279
+UTM_easting: 328121.0801262971
+UTM_northing: 4689404.202116985
+UTC: "192912.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192912.00,4220.27509,N,07105.18534,W,1,12,0.71,32.4,M,-33.2,M,,*4A"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       9
+# timestamp (sec): 1676575752.973405600
+# - - -
+Header: 
+  seq: 12
+  stamp: 
+    secs: 70153
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33790916666667
+Longitude: -71.08642166666667
+Altitude: 32.5
+HDOP: 0.8199999928474426
+UTM_easting: 328121.11052716186
+UTM_northing: 4689403.201388025
+UTC: "192913.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192913.00,4220.27455,N,07105.18530,W,1,12,0.82,32.5,M,-33.2,M,,*4A"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       10
+# timestamp (sec): 1676575753.972375154
+# - - -
+Header: 
+  seq: 13
+  stamp: 
+    secs: 70154
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337901333333335
+Longitude: -71.08642016666667
+Altitude: 32.599998474121094
+HDOP: 0.6899999976158142
+UTM_easting: 328121.21275938733
+UTM_northing: 4689402.328524015
+UTC: "192914.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192914.00,4220.27408,N,07105.18521,W,1,12,0.69,32.6,M,-33.2,M,,*43"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       11
+# timestamp (sec): 1676575754.975077629
+# - - -
+Header: 
+  seq: 14
+  stamp: 
+    secs: 70155
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337892833333335
+Longitude: -71.08642016666667
+Altitude: 32.79999923706055
+HDOP: 0.6899999976158142
+UTM_easting: 328121.18960045115
+UTM_northing: 4689401.384663838
+UTC: "192915.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192915.00,4220.27357,N,07105.18521,W,1,12,0.69,32.8,M,-33.2,M,,*41"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       12
+# timestamp (sec): 1676575755.972102165
+# - - -
+Header: 
+  seq: 15
+  stamp: 
+    secs: 70156
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337884333333335
+Longitude: -71.08641966666667
+Altitude: 32.900001525878906
+HDOP: 0.7200000286102295
+UTM_easting: 328121.2076331269
+UTM_northing: 4689400.439792968
+UTC: "192916.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192916.00,4220.27306,N,07105.18518,W,1,12,0.72,32.9,M,-33.2,M,,*47"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       13
+# timestamp (sec): 1676575756.970905066
+# - - -
+Header: 
+  seq: 16
+  stamp: 
+    secs: 70157
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33787483333333
+Longitude: -71.0864205
+Altitude: 32.900001525878906
+HDOP: 0.6100000143051147
+UTM_easting: 328121.1130969343
+UTM_northing: 4689399.386574909
+UTC: "192917.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192917.00,4220.27249,N,07105.18523,W,1,12,0.61,32.9,M,-33.2,M,,*46"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       14
+# timestamp (sec): 1676575757.985510588
+# - - -
+Header: 
+  seq: 17
+  stamp: 
+    secs: 70158
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3378665
+Longitude: -71.08642
+Altitude: 32.900001525878906
+HDOP: 0.6299999952316284
+UTM_easting: 328121.13158372254
+UTM_northing: 4689398.460211104
+UTC: "192918.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192918.00,4220.27199,N,07105.18520,W,1,12,0.63,32.9,M,-33.2,M,,*46"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       15
+# timestamp (sec): 1676575758.976077557
+# - - -
+Header: 
+  seq: 18
+  stamp: 
+    secs: 70159
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337858
+Longitude: -71.08642
+Altitude: 32.900001525878906
+HDOP: 0.7300000190734863
+UTM_easting: 328121.10842480377
+UTM_northing: 4689397.5163509315
+UTC: "192919.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192919.00,4220.27148,N,07105.18520,W,1,12,0.73,32.9,M,-33.2,M,,*4A"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       16
+# timestamp (sec): 1676575759.981331587
+# - - -
+Header: 
+  seq: 19
+  stamp: 
+    secs: 70160
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33784933333333
+Longitude: -71.0864195
+Altitude: 33.0
+HDOP: 0.6100000143051147
+UTM_easting: 328121.1260034235
+UTM_northing: 4689396.552973006
+UTC: "192920.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192920.00,4220.27096,N,07105.18517,W,1,12,0.61,33.0,M,-33.2,M,,*4D"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       17
+# timestamp (sec): 1676575760.977836609
+# - - -
+Header: 
+  seq: 20
+  stamp: 
+    secs: 70161
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33784133333333
+Longitude: -71.08641916666667
+Altitude: 33.0
+HDOP: 0.75
+UTM_easting: 328121.1316678993
+UTM_northing: 4689395.663960229
+UTC: "192921.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192921.00,4220.27048,N,07105.18515,W,1,12,0.75,33.0,M,-33.2,M,,*48"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       18
+# timestamp (sec): 1676575762.020517111
+# - - -
+Header: 
+  seq: 21
+  stamp: 
+    secs: 70162
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3372235
+Longitude: -71.08690266666666
+Altitude: 11.199999809265137
+HDOP: 0.6100000143051147
+UTM_easting: 328079.61563955684
+UTM_northing: 4689328.035735768
+UTC: "192922.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192922.00,4220.23341,N,07105.21416,W,2,12,0.61,11.2,M,-33.2,M,,0000*49"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       19
+# timestamp (sec): 1676575762.975247622
+# - - -
+Header: 
+  seq: 22
+  stamp: 
+    secs: 70163
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3372135
+Longitude: -71.0869085
+Altitude: 10.5
+HDOP: 0.5899999737739563
+UTM_easting: 328079.1078138975
+UTM_northing: 4689326.937106259
+UTC: "192923.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192923.00,4220.23281,N,07105.21451,W,2,12,0.59,10.5,M,-33.2,M,,0000*4B"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       20
+# timestamp (sec): 1676575763.977062225
+# - - -
+Header: 
+  seq: 23
+  stamp: 
+    secs: 70164
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33721233333333
+Longitude: -71.08690366666667
+Altitude: 8.5
+HDOP: 0.5899999737739563
+UTM_easting: 328079.50282432867
+UTM_northing: 4689326.797784538
+UTC: "192924.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192924.00,4220.23274,N,07105.21422,W,2,12,0.59,8.5,M,-33.2,M,,0000*7B"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       21
+# timestamp (sec): 1676575764.973335028
+# - - -
+Header: 
+  seq: 24
+  stamp: 
+    secs: 70165
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33721
+Longitude: -71.0868985
+Altitude: 7.800000190734863
+HDOP: 0.6000000238418579
+UTM_easting: 328079.922116776
+UTM_northing: 4689326.5282394625
+UTC: "192925.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192925.00,4220.23260,N,07105.21391,W,2,12,0.60,7.8,M,-33.2,M,,0000*78"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       22
+# timestamp (sec): 1676575765.977475882
+# - - -
+Header: 
+  seq: 25
+  stamp: 
+    secs: 70166
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33720533333333
+Longitude: -71.08689666666666
+Altitude: 7.800000190734863
+HDOP: 0.5899999737739563
+UTM_easting: 328080.0604368497
+UTM_northing: 4689326.006335041
+UTC: "192926.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192926.00,4220.23232,N,07105.21380,W,2,12,0.59,7.8,M,-33.2,M,,0000*76"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       23
+# timestamp (sec): 1676575766.975160599
+# - - -
+Header: 
+  seq: 26
+  stamp: 
+    secs: 70167
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337197833333335
+Longitude: -71.08688966666666
+Altitude: 9.100000381469727
+HDOP: 0.6000000238418579
+UTM_easting: 328080.6166869222
+UTM_northing: 4689325.159364408
+UTC: "192927.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192927.00,4220.23187,N,07105.21338,W,1,12,0.60,9.1,M,-33.2,M,,*77"
+Quality: "1"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       24
+# timestamp (sec): 1676575767.978024244
+# - - -
+Header: 
+  seq: 27
+  stamp: 
+    secs: 70168
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337195666666666
+Longitude: -71.086884
+Altitude: 8.100000381469727
+HDOP: 0.6000000238418579
+UTM_easting: 328081.0776257628
+UTM_northing: 4689324.907315551
+UTC: "192928.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192928.00,4220.23174,N,07105.21304,W,2,12,0.60,8.1,M,-33.2,M,,0000*79"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       25
+# timestamp (sec): 1676575768.976341724
+# - - -
+Header: 
+  seq: 28
+  stamp: 
+    secs: 70169
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33719333333333
+Longitude: -71.08687883333333
+Altitude: 7.699999809265137
+HDOP: 0.5899999737739563
+UTM_easting: 328081.49691838626
+UTM_northing: 4689324.637770576
+UTC: "192929.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192929.00,4220.23160,N,07105.21273,W,2,12,0.59,7.7,M,-33.2,M,,0000*7F"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       26
+# timestamp (sec): 1676575769.975776196
+# - - -
+Header: 
+  seq: 29
+  stamp: 
+    secs: 70170
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337189
+Longitude: -71.08687416666666
+Altitude: 7.900000095367432
+HDOP: 0.5899999737739563
+UTM_easting: 328081.8695687029
+UTM_northing: 4689324.147151808
+UTC: "192930.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192930.00,4220.23134,N,07105.21245,W,2,12,0.59,7.9,M,-33.2,M,,0000*7D"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       27
+# timestamp (sec): 1676575770.977098942
+# - - -
+Header: 
+  seq: 30
+  stamp: 
+    secs: 70171
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3371855
+Longitude: -71.08687116666667
+Altitude: 7.699999809265137
+HDOP: 0.6000000238418579
+UTM_easting: 328082.1071831244
+UTM_northing: 4689323.752438066
+UTC: "192931.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192931.00,4220.23113,N,07105.21227,W,2,12,0.60,7.7,M,-33.2,M,,0000*79"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       28
+# timestamp (sec): 1676575771.972549677
+# - - -
+Header: 
+  seq: 31
+  stamp: 
+    secs: 70172
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337175
+Longitude: -71.08686366666667
+Altitude: 7.599999904632568
+HDOP: 1.2899999618530273
+UTM_easting: 328082.6964503407
+UTM_northing: 4689322.571329614
+UTC: "192932.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192932.00,4220.23050,N,07105.21182,W,2,12,1.29,7.6,M,-33.2,M,,0000*7D"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       29
+# timestamp (sec): 1676575772.982357979
+# - - -
+Header: 
+  seq: 32
+  stamp: 
+    secs: 70173
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33728283333333
+Longitude: -71.08682633333333
+Altitude: 6.800000190734863
+HDOP: 1.0099999904632568
+UTM_easting: 328086.0659792624
+UTM_northing: 4689334.469917649
+UTC: "192933.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192933.00,4220.23697,N,07105.20958,W,5,12,1.01,6.8,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       30
+# timestamp (sec): 1676575773.979348898
+# - - -
+Header: 
+  seq: 33
+  stamp: 
+    secs: 70174
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3375085
+Longitude: -71.08668566666667
+Altitude: -5.0
+HDOP: 1.0099999904632568
+UTM_easting: 328098.26958220155
+UTM_northing: 4689359.244091381
+UTC: "192934.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192934.00,4220.25051,N,07105.20114,W,5,12,1.01,-5.0,M,-33.2,M,,0000*56"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       31
+# timestamp (sec): 1676575774.976007938
+# - - -
+Header: 
+  seq: 34
+  stamp: 
+    secs: 70175
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33760433333333
+Longitude: -71.0866275
+Altitude: -11.399999618530273
+HDOP: 1.0399999618530273
+UTM_easting: 328103.3226979431
+UTM_northing: 4689369.768061213
+UTC: "192935.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192935.00,4220.25626,N,07105.19765,W,5,12,1.04,-11.4,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       32
+# timestamp (sec): 1676575775.988731146
+# - - -
+Header: 
+  seq: 35
+  stamp: 
+    secs: 70176
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33765066666667
+Longitude: -71.08659283333333
+Altitude: -13.699999809265137
+HDOP: 1.0399999618530273
+UTM_easting: 328106.30491093366
+UTM_northing: 4689374.842943281
+UTC: "192936.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192936.00,4220.25904,N,07105.19557,W,5,12,1.04,-13.7,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       33
+# timestamp (sec): 1676575776.986575603
+# - - -
+Header: 
+  seq: 36
+  stamp: 
+    secs: 70177
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33768
+Longitude: -71.08656783333333
+Altitude: -13.800000190734863
+HDOP: 0.9800000190734863
+UTM_easting: 328108.4444253843
+UTM_northing: 4689378.049647625
+UTC: "192937.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192937.00,4220.26080,N,07105.19407,W,5,12,0.98,-13.8,M,-33.2,M,,0000*69"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       34
+# timestamp (sec): 1676575777.989152193
+# - - -
+Header: 
+  seq: 37
+  stamp: 
+    secs: 70178
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33770716666667
+Longitude: -71.08654666666666
+Altitude: -14.399999618530273
+HDOP: 1.0099999904632568
+UTM_easting: 328110.26223114785
+UTM_northing: 4689381.023509884
+UTC: "192938.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192938.00,4220.26243,N,07105.19280,W,5,12,1.01,-14.4,M,-33.2,M,,0000*68"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       35
+# timestamp (sec): 1676575778.995392323
+# - - -
+Header: 
+  seq: 38
+  stamp: 
+    secs: 70179
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337731833333336
+Longitude: -71.086529
+Altitude: -14.899999618530273
+HDOP: 1.0399999618530273
+UTM_easting: 328111.78488170495
+UTM_northing: 4689383.726841873
+UTC: "192939.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192939.00,4220.26391,N,07105.19174,W,5,12,1.04,-14.9,M,-33.2,M,,0000*67"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       36
+# timestamp (sec): 1676575779.983404398
+# - - -
+Header: 
+  seq: 39
+  stamp: 
+    secs: 70180
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33774916666667
+Longitude: -71.08651533333334
+Altitude: -15.100000381469727
+HDOP: 1.0299999713897705
+UTM_easting: 328112.958016498
+UTM_northing: 4689385.623949348
+UTC: "192940.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192940.00,4220.26495,N,07105.19092,W,5,12,1.03,-15.1,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       37
+# timestamp (sec): 1676575780.985256195
+# - - -
+Header: 
+  seq: 40
+  stamp: 
+    secs: 70181
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337756666666664
+Longitude: -71.0865065
+Altitude: -16.0
+HDOP: 1.0399999618530273
+UTM_easting: 328113.7061716358
+UTM_northing: 4689386.438910778
+UTC: "192941.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192941.00,4220.26540,N,07105.19039,W,5,12,1.04,-16.0,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       38
+# timestamp (sec): 1676575781.987506628
+# - - -
+Header: 
+  seq: 41
+  stamp: 
+    secs: 70182
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337760333333335
+Longitude: -71.08650283333333
+Altitude: -16.200000762939453
+HDOP: 1.0099999904632568
+UTM_easting: 328114.0182345456
+UTM_northing: 4689386.838654089
+UTC: "192942.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192942.00,4220.26562,N,07105.19017,W,5,12,1.01,-16.2,M,-33.2,M,,0000*69"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       39
+# timestamp (sec): 1676575782.996846437
+# - - -
+Header: 
+  seq: 42
+  stamp: 
+    secs: 70183
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3377695
+Longitude: -71.08649583333333
+Altitude: -17.200000762939453
+HDOP: 1.0
+UTM_easting: 328114.6198943765
+UTM_northing: 4689387.842392256
+UTC: "192943.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192943.00,4220.26617,N,07105.18975,W,5,12,1.00,-17.2,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       40
+# timestamp (sec): 1676575783.987969398
+# - - -
+Header: 
+  seq: 43
+  stamp: 
+    secs: 70184
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337781
+Longitude: -71.08648266666667
+Altitude: -17.899999618530273
+HDOP: 1.0099999904632568
+UTM_easting: 328115.7359422757
+UTM_northing: 4689389.092763727
+UTC: "192944.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192944.00,4220.26686,N,07105.18896,W,5,12,1.01,-17.9,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       41
+# timestamp (sec): 1676575784.986538649
+# - - -
+Header: 
+  seq: 44
+  stamp: 
+    secs: 70185
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3377895
+Longitude: -71.08647033333334
+Altitude: -18.299999237060547
+HDOP: 1.0
+UTM_easting: 328116.7751630782
+UTM_northing: 4689390.011692777
+UTC: "192945.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192945.00,4220.26737,N,07105.18822,W,5,12,1.00,-18.3,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       42
+# timestamp (sec): 1676575785.980553150
+# - - -
+Header: 
+  seq: 45
+  stamp: 
+    secs: 70186
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3377915
+Longitude: -71.08646066666667
+Altitude: -18.799999237060547
+HDOP: 1.0299999713897705
+UTM_easting: 328117.57698464324
+UTM_northing: 4689390.214237024
+UTC: "192946.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192946.00,4220.26749,N,07105.18764,W,5,12,1.03,-18.8,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       43
+# timestamp (sec): 1676575786.990218878
+# - - -
+Header: 
+  seq: 46
+  stamp: 
+    secs: 70187
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337793
+Longitude: -71.08645183333333
+Altitude: -19.299999237060547
+HDOP: 1.0099999904632568
+UTM_easting: 328118.30879106966
+UTM_northing: 4689390.362944688
+UTC: "192947.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192947.00,4220.26758,N,07105.18711,W,5,12,1.01,-19.3,M,-33.2,M,,0000*69"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       44
+# timestamp (sec): 1676575787.989013910
+# - - -
+Header: 
+  seq: 47
+  stamp: 
+    secs: 70188
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33779216666667
+Longitude: -71.08644916666667
+Altitude: -19.399999618530273
+HDOP: 1.0
+UTM_easting: 328118.52620945865
+UTM_northing: 4689390.265018933
+UTC: "192948.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192948.00,4220.26753,N,07105.18695,W,5,12,1.00,-19.4,M,-33.2,M,,0000*66"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       45
+# timestamp (sec): 1676575788.982203484
+# - - -
+Header: 
+  seq: 48
+  stamp: 
+    secs: 70189
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33779166666667
+Longitude: -71.08644366666667
+Altitude: -19.600000381469727
+HDOP: 1.0
+UTM_easting: 328118.9779555175
+UTM_northing: 4689390.198379981
+UTC: "192949.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192949.00,4220.26750,N,07105.18662,W,5,12,1.00,-19.6,M,-33.2,M,,0000*6E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       46
+# timestamp (sec): 1676575789.973965883
+# - - -
+Header: 
+  seq: 49
+  stamp: 
+    secs: 70190
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33779333333333
+Longitude: -71.08643833333333
+Altitude: -19.799999237060547
+HDOP: 1.059999942779541
+UTM_easting: 328119.4218743269
+UTM_northing: 4689390.372669761
+UTC: "192950.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192950.00,4220.26760,N,07105.18630,W,5,12,1.06,-19.8,M,-33.2,M,,0000*6A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       47
+# timestamp (sec): 1676575790.985291004
+# - - -
+Header: 
+  seq: 50
+  stamp: 
+    secs: 70191
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33779466666667
+Longitude: -71.08643733333334
+Altitude: -20.100000381469727
+HDOP: 1.0299999713897705
+UTM_easting: 328119.50789046136
+UTM_northing: 4689390.518704854
+UTC: "192951.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192951.00,4220.26768,N,07105.18624,W,5,12,1.03,-20.1,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       48
+# timestamp (sec): 1676575791.983838558
+# - - -
+Header: 
+  seq: 51
+  stamp: 
+    secs: 70192
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337797
+Longitude: -71.086437
+Altitude: -20.399999618530273
+HDOP: 0.9800000190734863
+UTM_easting: 328119.5417089666
+UTM_northing: 4689390.777129921
+UTC: "192952.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192952.00,4220.26782,N,07105.18622,W,5,12,0.98,-20.4,M,-33.2,M,,0000*67"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       49
+# timestamp (sec): 1676575792.984728098
+# - - -
+Header: 
+  seq: 52
+  stamp: 
+    secs: 70193
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33780266666667
+Longitude: -71.086434
+Altitude: -20.799999237060547
+HDOP: 0.9800000190734863
+UTM_easting: 328119.80429832684
+UTM_northing: 4689391.400305826
+UTC: "192953.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192953.00,4220.26816,N,07105.18604,W,5,12,0.98,-20.8,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       50
+# timestamp (sec): 1676575793.983200550
+# - - -
+Header: 
+  seq: 53
+  stamp: 
+    secs: 70194
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337810833333336
+Longitude: -71.08642833333333
+Altitude: -20.5
+HDOP: 1.0
+UTM_easting: 328120.29338796186
+UTM_northing: 4689392.295697278
+UTC: "192954.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192954.00,4220.26865,N,07105.18570,W,5,12,1.00,-20.5,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       51
+# timestamp (sec): 1676575794.984607935
+# - - -
+Header: 
+  seq: 54
+  stamp: 
+    secs: 70195
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33781666666667
+Longitude: -71.08642333333333
+Altitude: -20.399999618530273
+HDOP: 1.0
+UTM_easting: 328120.72119791876
+UTM_northing: 4689392.933337486
+UTC: "192955.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192955.00,4220.26900,N,07105.18540,W,5,12,1.00,-20.4,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       52
+# timestamp (sec): 1676575795.980632544
+# - - -
+Header: 
+  seq: 55
+  stamp: 
+    secs: 70196
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3378225
+Longitude: -71.08641983333334
+Altitude: -20.200000762939453
+HDOP: 1.0
+UTM_easting: 328121.02543285117
+UTM_northing: 4689393.574009801
+UTC: "192956.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192956.00,4220.26935,N,07105.18519,W,5,12,1.00,-20.2,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       53
+# timestamp (sec): 1676575796.995803595
+# - - -
+Header: 
+  seq: 56
+  stamp: 
+    secs: 70197
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337830333333336
+Longitude: -71.0864125
+Altitude: -19.399999618530273
+HDOP: 1.0
+UTM_easting: 328121.65091948665
+UTM_northing: 4689394.429018241
+UTC: "192957.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192957.00,4220.26982,N,07105.18475,W,5,12,1.00,-19.4,M,-33.2,M,,0000*66"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       54
+# timestamp (sec): 1676575797.981039762
+# - - -
+Header: 
+  seq: 57
+  stamp: 
+    secs: 70198
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33783666666667
+Longitude: -71.086406
+Altitude: -18.899999618530273
+HDOP: 0.9800000190734863
+UTM_easting: 328122.20366640144
+UTM_northing: 4689395.119147653
+UTC: "192958.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192958.00,4220.27020,N,07105.18436,W,5,12,0.98,-18.9,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       55
+# timestamp (sec): 1676575798.982323408
+# - - -
+Header: 
+  seq: 58
+  stamp: 
+    secs: 70199
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337842
+Longitude: -71.08639766666667
+Altitude: -18.0
+HDOP: 0.9700000286102295
+UTM_easting: 328122.9047246619
+UTM_northing: 4689395.694528894
+UTC: "192959.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,192959.00,4220.27052,N,07105.18386,W,5,12,0.97,-18.0,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       56
+# timestamp (sec): 1676575799.985257864
+# - - -
+Header: 
+  seq: 59
+  stamp: 
+    secs: 70200
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33784633333333
+Longitude: -71.08639
+Altitude: -16.700000762939453
+HDOP: 0.9800000190734863
+UTM_easting: 328123.54813609226
+UTM_northing: 4689396.160215402
+UTC: "193000.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193000.00,4220.27078,N,07105.18340,W,5,12,0.98,-16.7,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       57
+# timestamp (sec): 1676575800.984116316
+# - - -
+Header: 
+  seq: 60
+  stamp: 
+    secs: 70201
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33784883333333
+Longitude: -71.0863835
+Altitude: -15.600000381469727
+HDOP: 0.9800000190734863
+UTM_easting: 328124.0904386585
+UTM_northing: 4689396.424682528
+UTC: "193001.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193001.00,4220.27093,N,07105.18301,W,5,12,0.98,-15.6,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       58
+# timestamp (sec): 1676575801.981147528
+# - - -
+Header: 
+  seq: 61
+  stamp: 
+    secs: 70202
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337852166666664
+Longitude: -71.08637816666666
+Altitude: -14.199999809265137
+HDOP: 0.9900000095367432
+UTM_easting: 328124.53889781196
+UTM_northing: 4689396.784043242
+UTC: "193002.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193002.00,4220.27113,N,07105.18269,W,5,12,0.99,-14.2,M,-33.2,M,,0000*6E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       59
+# timestamp (sec): 1676575802.985841036
+# - - -
+Header: 
+  seq: 62
+  stamp: 
+    secs: 70203
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33785533333333
+Longitude: -71.08637116666667
+Altitude: -12.600000381469727
+HDOP: 0.9900000095367432
+UTM_easting: 328125.12420826085
+UTM_northing: 4689397.121528018
+UTC: "193003.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193003.00,4220.27132,N,07105.18227,W,5,12,0.99,-12.6,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       60
+# timestamp (sec): 1676575803.985867500
+# - - -
+Header: 
+  seq: 63
+  stamp: 
+    secs: 70204
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337860666666664
+Longitude: -71.0863645
+Altitude: -11.0
+HDOP: 0.9700000286102295
+UTM_easting: 328125.687960663
+UTM_northing: 4689397.700278428
+UTC: "193004.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193004.00,4220.27164,N,07105.18187,W,5,12,0.97,-11.0,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       61
+# timestamp (sec): 1676575804.981528759
+# - - -
+Header: 
+  seq: 64
+  stamp: 
+    secs: 70205
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33786633333333
+Longitude: -71.08635733333334
+Altitude: -9.300000190734863
+HDOP: 1.0099999904632568
+UTM_easting: 328126.2938127612
+UTM_northing: 4689398.315032342
+UTC: "193005.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193005.00,4220.27198,N,07105.18144,W,5,12,1.01,-9.3,M,-33.2,M,,0000*5B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       62
+# timestamp (sec): 1676575805.985950470
+# - - -
+Header: 
+  seq: 65
+  stamp: 
+    secs: 70206
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337869833333336
+Longitude: -71.08635083333333
+Altitude: -7.699999809265137
+HDOP: 0.9800000190734863
+UTM_easting: 328126.8388395411
+UTM_northing: 4689398.690542045
+UTC: "193006.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193006.00,4220.27219,N,07105.18105,W,5,12,0.98,-7.7,M,-33.2,M,,0000*5C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       63
+# timestamp (sec): 1676575806.978576183
+# - - -
+Header: 
+  seq: 66
+  stamp: 
+    secs: 70207
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33787266666667
+Longitude: -71.086345
+Altitude: -6.300000190734863
+HDOP: 1.0099999904632568
+UTM_easting: 328127.32712778536
+UTM_northing: 4689398.993371085
+UTC: "193007.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193007.00,4220.27236,N,07105.18070,W,5,12,1.01,-6.3,M,-33.2,M,,0000*57"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       64
+# timestamp (sec): 1676575807.971173286
+# - - -
+Header: 
+  seq: 67
+  stamp: 
+    secs: 70208
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33787566666667
+Longitude: -71.08634016666667
+Altitude: -5.699999809265137
+HDOP: 0.9800000190734863
+UTM_easting: 328127.7334868362
+UTM_northing: 4689399.316728527
+UTC: "193008.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193008.00,4220.27254,N,07105.18041,W,2,12,0.98,-5.7,M,-33.2,M,,0000*5F"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       65
+# timestamp (sec): 1676575808.996535540
+# - - -
+Header: 
+  seq: 68
+  stamp: 
+    secs: 70209
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337877666666664
+Longitude: -71.08633183333333
+Altitude: -3.9000000953674316
+HDOP: 1.2699999809265137
+UTM_easting: 328128.4254626733
+UTM_northing: 4689399.521969056
+UTC: "193009.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193009.00,4220.27266,N,07105.17991,W,5,12,1.27,-3.9,M,-33.2,M,,0000*5E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       66
+# timestamp (sec): 1676575809.980463266
+# - - -
+Header: 
+  seq: 69
+  stamp: 
+    secs: 70210
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337881
+Longitude: -71.086325
+Altitude: -2.4000000953674316
+HDOP: 1.2400000095367432
+UTM_easting: 328128.9974962368
+UTM_northing: 4689399.878298094
+UTC: "193010.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193010.00,4220.27286,N,07105.17950,W,5,12,1.24,-2.4,M,-33.2,M,,0000*5A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       67
+# timestamp (sec): 1676575810.981732845
+# - - -
+Header: 
+  seq: 70
+  stamp: 
+    secs: 70211
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337885166666666
+Longitude: -71.08631883333334
+Altitude: -1.100000023841858
+HDOP: 1.2699999809265137
+UTM_easting: 328129.51687797223
+UTM_northing: 4689400.328510011
+UTC: "193011.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193011.00,4220.27311,N,07105.17913,W,5,12,1.27,-1.1,M,-33.2,M,,0000*56"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       68
+# timestamp (sec): 1676575811.984071493
+# - - -
+Header: 
+  seq: 71
+  stamp: 
+    secs: 70212
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337888166666666
+Longitude: -71.08631216666667
+Altitude: 0.10000000149011612
+HDOP: 1.2699999809265137
+UTM_easting: 328130.07427273155
+UTM_northing: 4689400.64816189
+UTC: "193012.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193012.00,4220.27329,N,07105.17873,W,5,12,1.27,0.1,M,-33.2,M,,0000*75"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       69
+# timestamp (sec): 1676575812.981078148
+# - - -
+Header: 
+  seq: 72
+  stamp: 
+    secs: 70213
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33789083333333
+Longitude: -71.08630566666666
+Altitude: 1.0
+HDOP: 1.2999999523162842
+UTM_easting: 328130.6170287628
+UTM_northing: 4689400.931136565
+UTC: "193013.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193013.00,4220.27345,N,07105.17834,W,5,12,1.30,1.0,M,-33.2,M,,0000*7B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       70
+# timestamp (sec): 1676575813.979339123
+# - - -
+Header: 
+  seq: 73
+  stamp: 
+    secs: 70214
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337893333333334
+Longitude: -71.08630083333334
+Altitude: 1.600000023841858
+HDOP: 1.2699999809265137
+UTM_easting: 328131.02202533226
+UTM_northing: 4689401.198973005
+UTC: "193014.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193014.00,4220.27360,N,07105.17805,W,5,12,1.27,1.6,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       71
+# timestamp (sec): 1676575814.987323999
+# - - -
+Header: 
+  seq: 74
+  stamp: 
+    secs: 70215
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33789816666667
+Longitude: -71.08629633333334
+Altitude: 2.200000047683716
+HDOP: 1.2699999809265137
+UTM_easting: 328131.40591778286
+UTM_northing: 4689401.726582094
+UTC: "193015.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193015.00,4220.27389,N,07105.17778,W,5,12,1.27,2.2,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       72
+# timestamp (sec): 1676575815.984400511
+# - - -
+Header: 
+  seq: 75
+  stamp: 
+    secs: 70216
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33790333333334
+Longitude: -71.08629033333334
+Altitude: 2.700000047683716
+HDOP: 1.2699999809265137
+UTM_easting: 328131.91429310595
+UTM_northing: 4689402.288173432
+UTC: "193016.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193016.00,4220.27420,N,07105.17742,W,5,12,1.27,2.7,M,-33.2,M,,0000*76"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       73
+# timestamp (sec): 1676575816.989190578
+# - - -
+Header: 
+  seq: 76
+  stamp: 
+    secs: 70217
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33790783333333
+Longitude: -71.08628333333333
+Altitude: 3.200000047683716
+HDOP: 1.2699999809265137
+UTM_easting: 328132.5032352651
+UTM_northing: 4689402.773715302
+UTC: "193017.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193017.00,4220.27447,N,07105.17700,W,5,12,1.27,3.2,M,-33.2,M,,0000*74"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       74
+# timestamp (sec): 1676575817.980712891
+# - - -
+Header: 
+  seq: 77
+  stamp: 
+    secs: 70218
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33791383333333
+Longitude: -71.08627683333333
+Altitude: 3.799999952316284
+HDOP: 1.2699999809265137
+UTM_easting: 328133.0550723445
+UTM_northing: 4689403.426831404
+UTC: "193018.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193018.00,4220.27483,N,07105.17661,W,5,12,1.27,3.8,M,-33.2,M,,0000*7F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       75
+# timestamp (sec): 1676575818.982201576
+# - - -
+Header: 
+  seq: 78
+  stamp: 
+    secs: 70219
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337919166666666
+Longitude: -71.08627016666667
+Altitude: 4.400000095367432
+HDOP: 1.2699999809265137
+UTM_easting: 328133.61882359243
+UTM_northing: 4689404.005582424
+UTC: "193019.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193019.00,4220.27515,N,07105.17621,W,5,12,1.27,4.4,M,-33.2,M,,0000*7F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       76
+# timestamp (sec): 1676575819.983965397
+# - - -
+Header: 
+  seq: 79
+  stamp: 
+    secs: 70220
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379245
+Longitude: -71.08626516666666
+Altitude: 4.900000095367432
+HDOP: 1.2699999809265137
+UTM_easting: 328134.04526947485
+UTM_northing: 4689404.587702214
+UTC: "193020.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193020.00,4220.27547,N,07105.17591,W,5,12,1.27,4.9,M,-33.2,M,,0000*77"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       77
+# timestamp (sec): 1676575820.985940218
+# - - -
+Header: 
+  seq: 80
+  stamp: 
+    secs: 70221
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33792783333333
+Longitude: -71.08625966666666
+Altitude: 5.400000095367432
+HDOP: 1.0099999904632568
+UTM_easting: 328134.5074581238
+UTM_northing: 4689404.946726666
+UTC: "193021.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193021.00,4220.27567,N,07105.17558,W,5,12,1.01,5.4,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       78
+# timestamp (sec): 1676575821.983348370
+# - - -
+Header: 
+  seq: 81
+  stamp: 
+    secs: 70222
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379325
+Longitude: -71.08625466666666
+Altitude: 5.900000095367432
+HDOP: 1.0099999904632568
+UTM_easting: 328134.93208763434
+UTM_northing: 4689405.454818258
+UTC: "193022.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193022.00,4220.27595,N,07105.17528,W,5,12,1.01,5.9,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       79
+# timestamp (sec): 1676575822.982748508
+# - - -
+Header: 
+  seq: 82
+  stamp: 
+    secs: 70223
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337937
+Longitude: -71.086249
+Altitude: 6.400000095367432
+HDOP: 1.0099999904632568
+UTM_easting: 328135.4111851248
+UTM_northing: 4689405.943055333
+UTC: "193023.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193023.00,4220.27622,N,07105.17494,W,5,12,1.01,6.4,M,-33.2,M,,0000*7B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       80
+# timestamp (sec): 1676575823.978831053
+# - - -
+Header: 
+  seq: 83
+  stamp: 
+    secs: 70224
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33794116666667
+Longitude: -71.08624483333334
+Altitude: 6.800000190734863
+HDOP: 1.0099999904632568
+UTM_easting: 328135.7657997162
+UTM_northing: 4689406.397310138
+UTC: "193024.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193024.00,4220.27647,N,07105.17469,W,5,12,1.01,6.8,M,-33.2,M,,0000*71"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       81
+# timestamp (sec): 1676575824.979547262
+# - - -
+Header: 
+  seq: 84
+  stamp: 
+    secs: 70225
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33794416666667
+Longitude: -71.086241
+Altitude: 7.099999904632568
+HDOP: 1.0099999904632568
+UTM_easting: 328136.0897748126
+UTM_northing: 4689406.722689264
+UTC: "193025.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193025.00,4220.27665,N,07105.17446,W,5,12,1.01,7.1,M,-33.2,M,,0000*75"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       82
+# timestamp (sec): 1676575825.977616072
+# - - -
+Header: 
+  seq: 85
+  stamp: 
+    secs: 70226
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337948833333336
+Longitude: -71.08623733333333
+Altitude: 7.300000190734863
+HDOP: 1.0099999904632568
+UTM_easting: 328136.4045599291
+UTM_northing: 4689407.233475894
+UTC: "193026.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193026.00,4220.27693,N,07105.17424,W,5,12,1.01,7.3,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       83
+# timestamp (sec): 1676575826.974973917
+# - - -
+Header: 
+  seq: 86
+  stamp: 
+    secs: 70227
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379545
+Longitude: -71.08623333333334
+Altitude: 7.400000095367432
+HDOP: 1.0099999904632568
+UTM_easting: 328136.7495303831
+UTM_northing: 4689407.854631174
+UTC: "193027.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193027.00,4220.27727,N,07105.17400,W,5,12,1.01,7.4,M,-33.2,M,,0000*77"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       84
+# timestamp (sec): 1676575827.982990742
+# - - -
+Header: 
+  seq: 87
+  stamp: 
+    secs: 70228
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379595
+Longitude: -71.0862285
+Altitude: 7.400000095367432
+HDOP: 1.0299999713897705
+UTM_easting: 328137.16133715614
+UTM_northing: 4689408.400073887
+UTC: "193028.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193028.00,4220.27757,N,07105.17371,W,5,12,1.03,7.4,M,-33.2,M,,0000*7C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       85
+# timestamp (sec): 1676575828.983852148
+# - - -
+Header: 
+  seq: 88
+  stamp: 
+    secs: 70229
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33796533333334
+Longitude: -71.08622466666667
+Altitude: 7.599999904632568
+HDOP: 1.0800000429153442
+UTM_easting: 328137.4930310306
+UTM_northing: 4689409.040073132
+UTC: "193029.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193029.00,4220.27792,N,07105.17348,W,5,12,1.08,7.6,M,-33.2,M,,0000*77"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       86
+# timestamp (sec): 1676575829.993900537
+# - - -
+Header: 
+  seq: 89
+  stamp: 
+    secs: 70230
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379715
+Longitude: -71.0862195
+Altitude: 8.100000381469727
+HDOP: 1.0299999713897705
+UTM_easting: 328137.9354770915
+UTM_northing: 4689409.714391589
+UTC: "193030.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193030.00,4220.27829,N,07105.17317,W,5,12,1.03,8.1,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       87
+# timestamp (sec): 1676575830.981082439
+# - - -
+Header: 
+  seq: 90
+  stamp: 
+    secs: 70231
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379785
+Longitude: -71.086215
+Altitude: 8.800000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328138.3252712728
+UTM_northing: 4689410.4825928435
+UTC: "193031.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193031.00,4220.27871,N,07105.17290,W,5,12,1.08,8.8,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       88
+# timestamp (sec): 1676575831.985772848
+# - - -
+Header: 
+  seq: 91
+  stamp: 
+    secs: 70232
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337984166666665
+Longitude: -71.08621016666666
+Altitude: 9.199999809265137
+HDOP: 1.0800000429153442
+UTM_easting: 328138.7388939875
+UTM_northing: 4689411.102063892
+UTC: "193032.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193032.00,4220.27905,N,07105.17261,W,5,12,1.08,9.2,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       89
+# timestamp (sec): 1676575832.988071203
+# - - -
+Header: 
+  seq: 92
+  stamp: 
+    secs: 70233
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33798866666667
+Longitude: -71.0862065
+Altitude: 9.5
+HDOP: 1.100000023841858
+UTM_easting: 328139.05322468025
+UTM_northing: 4689411.594343572
+UTC: "193033.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193033.00,4220.27932,N,07105.17239,W,5,12,1.10,9.5,M,-33.2,M,,0000*7B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       90
+# timestamp (sec): 1676575833.981997252
+# - - -
+Header: 
+  seq: 93
+  stamp: 
+    secs: 70234
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337993166666664
+Longitude: -71.08620083333334
+Altitude: 9.800000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328139.53232148534
+UTM_northing: 4689412.08258091
+UTC: "193034.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193034.00,4220.27959,N,07105.17205,W,5,12,1.08,9.8,M,-33.2,M,,0000*7A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       91
+# timestamp (sec): 1676575834.982146263
+# - - -
+Header: 
+  seq: 94
+  stamp: 
+    secs: 70235
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33799716666667
+Longitude: -71.08619566666667
+Altitude: 9.899999618530273
+HDOP: 1.0299999713897705
+UTM_easting: 328139.9688645407
+UTM_northing: 4689412.516307678
+UTC: "193035.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193035.00,4220.27983,N,07105.17174,W,5,12,1.03,9.9,M,-33.2,M,,0000*73"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       92
+# timestamp (sec): 1676575835.983259201
+# - - -
+Header: 
+  seq: 95
+  stamp: 
+    secs: 70236
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33800033333333
+Longitude: -71.08619166666666
+Altitude: 9.899999618530273
+HDOP: 1.0299999713897705
+UTM_easting: 328140.3070237301
+UTM_northing: 4689412.859857188
+UTC: "193036.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193036.00,4220.28002,N,07105.17150,W,5,12,1.03,9.9,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       93
+# timestamp (sec): 1676575836.982643604
+# - - -
+Header: 
+  seq: 96
+  stamp: 
+    secs: 70237
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33800266666667
+Longitude: -71.0861875
+Altitude: 9.699999809265137
+HDOP: 1.0299999713897705
+UTM_easting: 328140.6566431597
+UTM_northing: 4689413.11053454
+UTC: "193037.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193037.00,4220.28016,N,07105.17125,W,5,12,1.03,9.7,M,-33.2,M,,0000*71"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       94
+# timestamp (sec): 1676575837.980778217
+# - - -
+Header: 
+  seq: 97
+  stamp: 
+    secs: 70238
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380045
+Longitude: -71.08618383333334
+Altitude: 9.300000190734863
+HDOP: 1.0299999713897705
+UTM_easting: 328140.9637088964
+UTM_northing: 4689413.306701303
+UTC: "193038.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193038.00,4220.28027,N,07105.17103,W,5,12,1.03,9.3,M,-33.2,M,,0000*7C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       95
+# timestamp (sec): 1676575838.982560396
+# - - -
+Header: 
+  seq: 98
+  stamp: 
+    secs: 70239
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33800516666667
+Longitude: -71.08617983333333
+Altitude: 8.800000190734863
+HDOP: 1.0299999713897705
+UTM_easting: 328141.2950573167
+UTM_northing: 4689413.372644924
+UTC: "193039.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193039.00,4220.28031,N,07105.17079,W,5,12,1.03,8.8,M,-33.2,M,,0000*7C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       96
+# timestamp (sec): 1676575839.982042313
+# - - -
+Header: 
+  seq: 99
+  stamp: 
+    secs: 70240
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338006666666665
+Longitude: -71.08617616666666
+Altitude: 8.5
+HDOP: 1.0800000429153442
+UTM_easting: 328141.601214934
+UTM_northing: 4689413.531797588
+UTC: "193040.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193040.00,4220.28040,N,07105.17057,W,5,12,1.08,8.5,M,-33.2,M,,0000*7E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       97
+# timestamp (sec): 1676575840.980994225
+# - - -
+Header: 
+  seq: 100
+  stamp: 
+    secs: 70241
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380095
+Longitude: -71.08617266666667
+Altitude: 8.199999809265137
+HDOP: 1.2799999713897705
+UTM_easting: 328141.89727437904
+UTM_northing: 4689413.839343622
+UTC: "193041.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193041.00,4220.28057,N,07105.17036,W,5,12,1.28,8.2,M,-33.2,M,,0000*7B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       98
+# timestamp (sec): 1676575841.985821009
+# - - -
+Header: 
+  seq: 101
+  stamp: 
+    secs: 70242
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338012666666664
+Longitude: -71.0861685
+Altitude: 8.100000381469727
+HDOP: 1.2799999713897705
+UTM_easting: 328142.2491639183
+UTM_northing: 4689414.182556363
+UTC: "193042.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193042.00,4220.28076,N,07105.17011,W,5,12,1.28,8.1,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       99
+# timestamp (sec): 1676575842.978350401
+# - - -
+Header: 
+  seq: 102
+  stamp: 
+    secs: 70243
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338015666666664
+Longitude: -71.08616316666667
+Altitude: 7.900000095367432
+HDOP: 1.0800000429153442
+UTM_easting: 328142.6967129342
+UTM_northing: 4689414.504904063
+UTC: "193043.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193043.00,4220.28094,N,07105.16979,W,5,12,1.08,7.9,M,-33.2,M,,0000*73"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       100
+# timestamp (sec): 1676575843.980475187
+# - - -
+Header: 
+  seq: 103
+  stamp: 
+    secs: 70244
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380185
+Longitude: -71.08615733333333
+Altitude: 7.800000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328143.1849993856
+UTM_northing: 4689414.80773416
+UTC: "193044.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193044.00,4220.28111,N,07105.16944,W,5,12,1.08,7.8,M,-33.2,M,,0000*77"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       101
+# timestamp (sec): 1676575844.982558489
+# - - -
+Header: 
+  seq: 104
+  stamp: 
+    secs: 70245
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338021833333336
+Longitude: -71.08615266666666
+Altitude: 7.599999904632568
+HDOP: 1.0800000429153442
+UTM_easting: 328143.578534371
+UTM_northing: 4689415.168443463
+UTC: "193045.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193045.00,4220.28131,N,07105.16916,W,5,12,1.08,7.6,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       102
+# timestamp (sec): 1676575845.977748394
+# - - -
+Header: 
+  seq: 105
+  stamp: 
+    secs: 70246
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33802433333334
+Longitude: -71.0861475
+Altitude: 7.300000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328144.0109906391
+UTM_northing: 4689415.43560691
+UTC: "193046.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193046.00,4220.28146,N,07105.16885,W,5,12,1.08,7.3,M,-33.2,M,,0000*70"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       103
+# timestamp (sec): 1676575846.987732410
+# - - -
+Header: 
+  seq: 106
+  stamp: 
+    secs: 70247
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338027333333336
+Longitude: -71.0861435
+Altitude: 7.0
+HDOP: 1.0800000429153442
+UTM_easting: 328144.3486954531
+UTM_northing: 4689415.760649543
+UTC: "193047.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193047.00,4220.28164,N,07105.16861,W,5,12,1.08,7.0,M,-33.2,M,,0000*78"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       104
+# timestamp (sec): 1676575847.985751867
+# - - -
+Header: 
+  seq: 107
+  stamp: 
+    secs: 70248
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380295
+Longitude: -71.086139
+Altitude: 6.699999809265137
+HDOP: 1.1399999856948853
+UTM_easting: 328144.72532156465
+UTM_northing: 4689415.992146322
+UTC: "193048.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193048.00,4220.28177,N,07105.16834,W,5,12,1.14,6.7,M,-33.2,M,,0000*7E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       105
+# timestamp (sec): 1676575848.984541655
+# - - -
+Header: 
+  seq: 108
+  stamp: 
+    secs: 70249
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338032
+Longitude: -71.0861355
+Altitude: 6.300000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328145.02047269617
+UTM_northing: 4689416.262678358
+UTC: "193049.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193049.00,4220.28192,N,07105.16813,W,5,12,1.08,6.3,M,-33.2,M,,0000*78"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       106
+# timestamp (sec): 1676575849.977714062
+# - - -
+Header: 
+  seq: 109
+  stamp: 
+    secs: 70250
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380335
+Longitude: -71.08613133333333
+Altitude: 5.900000095367432
+HDOP: 1.100000023841858
+UTM_easting: 328145.36782161146
+UTM_northing: 4689416.420820626
+UTC: "193050.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193050.00,4220.28201,N,07105.16788,W,5,12,1.10,5.9,M,-33.2,M,,0000*74"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       107
+# timestamp (sec): 1676575850.984335899
+# - - -
+Header: 
+  seq: 110
+  stamp: 
+    secs: 70251
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338035166666664
+Longitude: -71.08612866666667
+Altitude: 5.5
+HDOP: 1.2300000190734863
+UTM_easting: 328145.5920500137
+UTM_northing: 4689416.6005016295
+UTC: "193051.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193051.00,4220.28211,N,07105.16772,W,5,12,1.23,5.5,M,-33.2,M,,0000*7D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       108
+# timestamp (sec): 1676575851.985486031
+# - - -
+Header: 
+  seq: 111
+  stamp: 
+    secs: 70252
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338037166666666
+Longitude: -71.08612533333333
+Altitude: 5.0
+HDOP: 1.0499999523162842
+UTM_easting: 328145.8721084866
+UTM_northing: 4689416.815849366
+UTC: "193052.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193052.00,4220.28223,N,07105.16752,W,5,12,1.05,5.0,M,-33.2,M,,0000*7C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       109
+# timestamp (sec): 1676575852.973212957
+# - - -
+Header: 
+  seq: 112
+  stamp: 
+    secs: 70253
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33803983333333
+Longitude: -71.086122
+Altitude: 4.699999809265137
+HDOP: 1.2300000190734863
+UTM_easting: 328146.1539830703
+UTM_northing: 4689417.105225359
+UTC: "193053.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193053.00,4220.28239,N,07105.16732,W,5,12,1.23,4.7,M,-33.2,M,,0000*72"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       110
+# timestamp (sec): 1676575853.985139370
+# - - -
+Header: 
+  seq: 113
+  stamp: 
+    secs: 70254
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33804266666667
+Longitude: -71.0861195
+Altitude: 4.300000190734863
+HDOP: 1.0800000429153442
+UTM_easting: 328146.3676591568
+UTM_northing: 4689417.414792674
+UTC: "193054.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193054.00,4220.28256,N,07105.16717,W,5,12,1.08,4.3,M,-33.2,M,,0000*76"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       111
+# timestamp (sec): 1676575854.982761145
+# - - -
+Header: 
+  seq: 114
+  stamp: 
+    secs: 70255
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338045666666666
+Longitude: -71.0861175
+Altitude: 4.0
+HDOP: 1.2699999809265137
+UTM_easting: 328146.54059775535
+UTM_northing: 4689417.743877603
+UTC: "193055.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193055.00,4220.28274,N,07105.16705,W,5,12,1.27,4.0,M,-33.2,M,,0000*7A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       112
+# timestamp (sec): 1676575855.980780363
+# - - -
+Header: 
+  seq: 115
+  stamp: 
+    secs: 70256
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33804716666667
+Longitude: -71.086116
+Altitude: 3.700000047683716
+HDOP: 1.0299999713897705
+UTM_easting: 328146.6682585499
+UTM_northing: 4689417.9074095255
+UTC: "193056.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193056.00,4220.28283,N,07105.16696,W,5,12,1.03,3.7,M,-33.2,M,,0000*7C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       113
+# timestamp (sec): 1676575856.981029034
+# - - -
+Header: 
+  seq: 116
+  stamp: 
+    secs: 70257
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338048666666666
+Longitude: -71.086115
+Altitude: 3.5
+HDOP: 1.2799999713897705
+UTM_easting: 328146.7547278386
+UTM_northing: 4689418.071951992
+UTC: "193057.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193057.00,4220.28292,N,07105.16690,W,5,12,1.28,3.5,M,-33.2,M,,0000*70"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       114
+# timestamp (sec): 1676575857.980025291
+# - - -
+Header: 
+  seq: 117
+  stamp: 
+    secs: 70258
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338051166666666
+Longitude: -71.08611583333334
+Altitude: 3.4000000953674316
+HDOP: 1.2799999713897705
+UTM_easting: 328146.6928858139
+UTM_northing: 4689418.3512421725
+UTC: "193058.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193058.00,4220.28307,N,07105.16695,W,5,12,1.28,3.4,M,-33.2,M,,0000*76"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       115
+# timestamp (sec): 1676575858.976258278
+# - - -
+Header: 
+  seq: 118
+  stamp: 
+    secs: 70259
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380545
+Longitude: -71.08611616666667
+Altitude: 3.200000047683716
+HDOP: 1.309999942779541
+UTM_easting: 328146.6745054534
+UTM_northing: 4689418.722057117
+UTC: "193059.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193059.00,4220.28327,N,07105.16697,W,5,12,1.31,3.2,M,-33.2,M,,0000*79"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       116
+# timestamp (sec): 1676575859.976715803
+# - - -
+Header: 
+  seq: 119
+  stamp: 
+    secs: 70260
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338056333333334
+Longitude: -71.08611533333334
+Altitude: 3.0999999046325684
+HDOP: 1.100000023841858
+UTM_easting: 328146.7481522986
+UTM_northing: 4689418.92395056
+UTC: "193100.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193100.00,4220.28338,N,07105.16692,W,5,12,1.10,3.1,M,-33.2,M,,0000*7F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       117
+# timestamp (sec): 1676575860.978051901
+# - - -
+Header: 
+  seq: 120
+  stamp: 
+    secs: 70261
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338058833333335
+Longitude: -71.08611583333334
+Altitude: 3.0
+HDOP: 1.0499999523162842
+UTM_easting: 328146.71377127984
+UTM_northing: 4689419.202567041
+UTC: "193101.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193101.00,4220.28353,N,07105.16695,W,5,12,1.05,3.0,M,-33.2,M,,0000*71"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       118
+# timestamp (sec): 1676575861.965731621
+# - - -
+Header: 
+  seq: 121
+  stamp: 
+    secs: 70262
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338061833333335
+Longitude: -71.086117
+Altitude: 2.9000000953674316
+HDOP: 1.0499999523162842
+UTM_easting: 328146.6258303722
+UTM_northing: 4689419.538052109
+UTC: "193102.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193102.00,4220.28371,N,07105.16702,W,5,12,1.05,2.9,M,-33.2,M,,0000*75"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       119
+# timestamp (sec): 1676575862.979108095
+# - - -
+Header: 
+  seq: 122
+  stamp: 
+    secs: 70263
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33806416666667
+Longitude: -71.08611916666666
+Altitude: 2.700000047683716
+HDOP: 1.2300000190734863
+UTM_easting: 328146.45369036257
+UTM_northing: 4689419.801530025
+UTC: "193103.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193103.00,4220.28385,N,07105.16715,W,5,12,1.23,2.7,M,-33.2,M,,0000*73"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       120
+# timestamp (sec): 1676575864.005333424
+# - - -
+Header: 
+  seq: 123
+  stamp: 
+    secs: 70264
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33806633333333
+Longitude: -71.086122
+Altitude: 2.4000000953674316
+HDOP: 1.2300000190734863
+UTM_easting: 328146.22617434844
+UTM_northing: 4689420.0478482805
+UTC: "193104.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193104.00,4220.28398,N,07105.16732,W,5,12,1.23,2.4,M,-33.2,M,,0000*7E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       121
+# timestamp (sec): 1676575864.975581646
+# - - -
+Header: 
+  seq: 124
+  stamp: 
+    secs: 70265
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338068666666665
+Longitude: -71.08612566666666
+Altitude: 2.0
+HDOP: 1.2300000190734863
+UTM_easting: 328145.9304599042
+UTM_northing: 4689420.31435786
+UTC: "193105.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193105.00,4220.28412,N,07105.16754,W,5,12,1.23,2.0,M,-33.2,M,,0000*7E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       122
+# timestamp (sec): 1676575865.978834152
+# - - -
+Header: 
+  seq: 125
+  stamp: 
+    secs: 70266
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33807183333333
+Longitude: -71.08612933333333
+Altitude: 1.7000000476837158
+HDOP: 1.2300000190734863
+UTM_easting: 328145.6370156573
+UTM_northing: 4689420.673402765
+UTC: "193106.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193106.00,4220.28431,N,07105.16776,W,5,12,1.23,1.7,M,-33.2,M,,0000*78"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       123
+# timestamp (sec): 1676575866.979236364
+# - - -
+Header: 
+  seq: 126
+  stamp: 
+    secs: 70267
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338075
+Longitude: -71.08613283333334
+Altitude: 1.5
+HDOP: 1.2300000190734863
+UTM_easting: 328145.35730193346
+UTM_northing: 4689421.032110831
+UTC: "193107.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193107.00,4220.28450,N,07105.16797,W,5,12,1.23,1.5,M,-33.2,M,,0000*73"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       124
+# timestamp (sec): 1676575867.985665321
+# - - -
+Header: 
+  seq: 127
+  stamp: 
+    secs: 70268
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338078
+Longitude: -71.08613766666667
+Altitude: 0.8999999761581421
+HDOP: 1.059999942779541
+UTM_easting: 328144.9672902534
+UTM_northing: 4689421.375006666
+UTC: "193108.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193108.00,4220.28468,N,07105.16826,W,5,12,1.06,0.9,M,-33.2,M,,0000*78"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       125
+# timestamp (sec): 1676575868.979667425
+# - - -
+Header: 
+  seq: 128
+  stamp: 
+    secs: 70269
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338080166666664
+Longitude: -71.08614233333333
+Altitude: 0.30000001192092896
+HDOP: 1.2300000190734863
+UTM_easting: 328144.58873891726
+UTM_northing: 4689421.625030358
+UTC: "193109.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193109.00,4220.28481,N,07105.16854,W,5,12,1.23,0.3,M,-33.2,M,,0000*76"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       126
+# timestamp (sec): 1676575869.981175184
+# - - -
+Header: 
+  seq: 129
+  stamp: 
+    secs: 70270
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33808333333333
+Longitude: -71.08614616666667
+Altitude: -0.10000000149011612
+HDOP: 1.2599999904632568
+UTM_easting: 328144.2815643036
+UTM_northing: 4689421.984412178
+UTC: "193110.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193110.00,4220.28500,N,07105.16877,W,5,12,1.26,-0.1,M,-33.2,M,,0000*5D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       127
+# timestamp (sec): 1676575870.982932568
+# - - -
+Header: 
+  seq: 130
+  stamp: 
+    secs: 70271
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338085166666666
+Longitude: -71.086151
+Altitude: -0.5
+HDOP: 1.1299999952316284
+UTM_easting: 328143.88837445097
+UTM_northing: 4689422.197758639
+UTC: "193111.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193111.00,4220.28511,N,07105.16906,W,5,12,1.13,-0.5,M,-33.2,M,,0000*59"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       128
+# timestamp (sec): 1676575871.980563641
+# - - -
+Header: 
+  seq: 131
+  stamp: 
+    secs: 70272
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33808783333333
+Longitude: -71.08615616666667
+Altitude: -0.8999999761581421
+HDOP: 1.059999942779541
+UTM_easting: 328143.4699938406
+UTM_northing: 4689422.504314147
+UTC: "193112.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193112.00,4220.28527,N,07105.16937,W,5,12,1.06,-0.9,M,-33.2,M,,0000*55"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       129
+# timestamp (sec): 1676575872.982670546
+# - - -
+Header: 
+  seq: 132
+  stamp: 
+    secs: 70273
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338090333333334
+Longitude: -71.086161
+Altitude: -1.399999976158142
+HDOP: 1.2300000190734863
+UTM_easting: 328143.07862020854
+UTM_northing: 4689422.791688905
+UTC: "193113.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193113.00,4220.28542,N,07105.16966,W,5,12,1.23,-1.4,M,-33.2,M,,0000*58"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       130
+# timestamp (sec): 1676575873.984929323
+# - - -
+Header: 
+  seq: 133
+  stamp: 
+    secs: 70274
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33809183333333
+Longitude: -71.0861645
+Altitude: -1.7000000476837158
+HDOP: 1.2300000190734863
+UTM_easting: 328142.79436627694
+UTM_northing: 4689422.965326455
+UTC: "193114.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193114.00,4220.28551,N,07105.16987,W,2,12,1.23,-1.7,M,-33.2,M,,0000*56"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       131
+# timestamp (sec): 1676575874.983638048
+# - - -
+Header: 
+  seq: 134
+  stamp: 
+    secs: 70275
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338094
+Longitude: -71.0861725
+Altitude: -2.4000000953674316
+HDOP: 1.2300000190734863
+UTM_easting: 328142.14120529033
+UTM_northing: 4689423.222087428
+UTC: "193115.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193115.00,4220.28564,N,07105.17035,W,5,12,1.23,-2.4,M,-33.2,M,,0000*57"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       132
+# timestamp (sec): 1676575875.984748602
+# - - -
+Header: 
+  seq: 135
+  stamp: 
+    secs: 70276
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338096166666666
+Longitude: -71.08617833333334
+Altitude: -2.9000000953674316
+HDOP: 1.2300000190734863
+UTM_easting: 328141.66654071934
+UTM_northing: 4689423.474469292
+UTC: "193116.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193116.00,4220.28577,N,07105.17070,W,5,12,1.23,-2.9,M,-33.2,M,,0000*5A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       133
+# timestamp (sec): 1676575876.981376886
+# - - -
+Header: 
+  seq: 136
+  stamp: 
+    secs: 70277
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338098333333335
+Longitude: -71.08618416666667
+Altitude: -3.299999952316284
+HDOP: 1.2300000190734863
+UTM_easting: 328141.1918761836
+UTM_northing: 4689423.726851191
+UTC: "193117.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193117.00,4220.28590,N,07105.17105,W,5,12,1.23,-3.3,M,-33.2,M,,0000*5A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       134
+# timestamp (sec): 1676575877.985059977
+# - - -
+Header: 
+  seq: 137
+  stamp: 
+    secs: 70278
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338101
+Longitude: -71.0861895
+Altitude: -3.5999999046325684
+HDOP: 1.2300000190734863
+UTM_easting: 328140.7597652902
+UTM_northing: 4689424.033743726
+UTC: "193118.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193118.00,4220.28606,N,07105.17137,W,5,12,1.23,-3.6,M,-33.2,M,,0000*5D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       135
+# timestamp (sec): 1676575878.976503134
+# - - -
+Header: 
+  seq: 138
+  stamp: 
+    secs: 70279
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338103833333335
+Longitude: -71.08619483333334
+Altitude: -4.0
+HDOP: 1.2300000190734863
+UTM_easting: 328140.32810848375
+UTM_northing: 4689424.359143353
+UTC: "193119.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193119.00,4220.28623,N,07105.17169,W,5,12,1.23,-4.0,M,-33.2,M,,0000*51"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       136
+# timestamp (sec): 1676575879.978098392
+# - - -
+Header: 
+  seq: 139
+  stamp: 
+    secs: 70280
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338106333333336
+Longitude: -71.0862
+Altitude: -4.400000095367432
+HDOP: 1.2599999904632568
+UTM_easting: 328139.9092741052
+UTM_northing: 4689424.647192021
+UTC: "193120.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193120.00,4220.28638,N,07105.17200,W,5,12,1.26,-4.4,M,-33.2,M,,0000*5C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       137
+# timestamp (sec): 1676575880.985650778
+# - - -
+Header: 
+  seq: 140
+  stamp: 
+    secs: 70281
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33810866666666
+Longitude: -71.08620416666666
+Altitude: -4.800000190734863
+HDOP: 1.2300000190734863
+UTM_easting: 328139.5723686331
+UTM_northing: 4689424.914712469
+UTC: "193121.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193121.00,4220.28652,N,07105.17225,W,5,12,1.23,-4.8,M,-33.2,M,,0000*5F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       138
+# timestamp (sec): 1676575881.973229885
+# - - -
+Header: 
+  seq: 141
+  stamp: 
+    secs: 70282
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3381095
+Longitude: -71.08620783333333
+Altitude: -5.099999904632568
+HDOP: 1.2599999904632568
+UTM_easting: 328139.2725681745
+UTM_northing: 4689425.014658782
+UTC: "193122.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193122.00,4220.28657,N,07105.17247,W,2,12,1.26,-5.1,M,-33.2,M,,0000*57"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       139
+# timestamp (sec): 1676575882.989883184
+# - - -
+Header: 
+  seq: 142
+  stamp: 
+    secs: 70283
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33811083333333
+Longitude: -71.08621233333334
+Altitude: -5.599999904632568
+HDOP: 1.2300000190734863
+UTM_easting: 328138.9054774486
+UTM_northing: 4689425.171810617
+UTC: "193123.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193123.00,4220.28665,N,07105.17274,W,5,12,1.23,-5.6,M,-33.2,M,,0000*52"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       140
+# timestamp (sec): 1676575883.983474970
+# - - -
+Header: 
+  seq: 143
+  stamp: 
+    secs: 70284
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33811166666667
+Longitude: -71.08621566666666
+Altitude: -5.800000190734863
+HDOP: 1.2300000190734863
+UTM_easting: 328138.633137982
+UTM_northing: 4689425.271083229
+UTC: "193124.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193124.00,4220.28670,N,07105.17294,W,5,12,1.23,-5.8,M,-33.2,M,,0000*51"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       141
+# timestamp (sec): 1676575884.991795063
+# - - -
+Header: 
+  seq: 144
+  stamp: 
+    secs: 70285
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3381125
+Longitude: -71.08622
+Altitude: -6.300000190734863
+HDOP: 1.2300000190734863
+UTM_easting: 328138.2784156054
+UTM_northing: 4689425.372377044
+UTC: "193125.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193125.00,4220.28675,N,07105.17320,W,5,12,1.23,-6.3,M,-33.2,M,,0000*53"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       142
+# timestamp (sec): 1676575885.987087250
+# - - -
+Header: 
+  seq: 145
+  stamp: 
+    secs: 70286
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338114
+Longitude: -71.08622566666666
+Altitude: -6.699999809265137
+HDOP: 1.2300000190734863
+UTM_easting: 328137.81566556916
+UTM_northing: 4689425.550394061
+UTC: "193126.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193126.00,4220.28684,N,07105.17354,W,5,12,1.23,-6.7,M,-33.2,M,,0000*59"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       143
+# timestamp (sec): 1676575886.977212191
+# - - -
+Header: 
+  seq: 146
+  stamp: 
+    secs: 70287
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33811583333333
+Longitude: -71.086231
+Altitude: -7.199999809265137
+HDOP: 1.2999999523162842
+UTM_easting: 328137.3812846454
+UTM_northing: 4689425.764751501
+UTC: "193127.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193127.00,4220.28695,N,07105.17386,W,5,12,1.30,-7.2,M,-33.2,M,,0000*51"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       144
+# timestamp (sec): 1676575887.979207039
+# - - -
+Header: 
+  seq: 147
+  stamp: 
+    secs: 70288
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338119166666665
+Longitude: -71.08623666666666
+Altitude: -7.300000190734863
+HDOP: 1.2300000190734863
+UTM_easting: 328136.9235293057
+UTM_northing: 4689426.146346269
+UTC: "193128.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193128.00,4220.28715,N,07105.17420,W,5,12,1.23,-7.3,M,-33.2,M,,0000*5F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       145
+# timestamp (sec): 1676575888.974715471
+# - - -
+Header: 
+  seq: 148
+  stamp: 
+    secs: 70289
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338123
+Longitude: -71.086242
+Altitude: -7.400000095367432
+HDOP: 1.2300000190734863
+UTM_easting: 328136.4945971597
+UTM_northing: 4689426.582788519
+UTC: "193129.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193129.00,4220.28738,N,07105.17452,W,5,12,1.23,-7.4,M,-33.2,M,,0000*53"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       146
+# timestamp (sec): 1676575889.978477955
+# - - -
+Header: 
+  seq: 149
+  stamp: 
+    secs: 70290
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338125833333336
+Longitude: -71.08624683333333
+Altitude: -7.5
+HDOP: 1.2300000190734863
+UTM_easting: 328136.10413215496
+UTM_northing: 4689426.907177809
+UTC: "193130.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193130.00,4220.28755,N,07105.17481,W,5,12,1.23,-7.5,M,-33.2,M,,0000*5F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       147
+# timestamp (sec): 1676575890.975461483
+# - - -
+Header: 
+  seq: 150
+  stamp: 
+    secs: 70291
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3381285
+Longitude: -71.08625116666667
+Altitude: -7.699999809265137
+HDOP: 1.5499999523162842
+UTM_easting: 328135.7544045745
+UTM_northing: 4689427.212049446
+UTC: "193131.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193131.00,4220.28771,N,07105.17507,W,5,12,1.55,-7.7,M,-33.2,M,,0000*54"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       148
+# timestamp (sec): 1676575891.976065874
+# - - -
+Header: 
+  seq: 151
+  stamp: 
+    secs: 70292
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338132333333334
+Longitude: -71.08625616666667
+Altitude: -8.0
+HDOP: 1.5499999523162842
+UTM_easting: 328135.3529335335
+UTM_northing: 4689427.647818029
+UTC: "193132.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193132.00,4220.28794,N,07105.17537,W,5,12,1.55,-8.0,M,-33.2,M,,0000*57"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       149
+# timestamp (sec): 1676575892.978556395
+# - - -
+Header: 
+  seq: 152
+  stamp: 
+    secs: 70293
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33813466666667
+Longitude: -71.08626016666666
+Altitude: -8.300000190734863
+HDOP: 1.309999942779541
+UTM_easting: 328135.0297588599
+UTM_northing: 4689427.915001837
+UTC: "193133.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193133.00,4220.28808,N,07105.17561,W,2,12,1.31,-8.3,M,-33.2,M,,0000*59"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       150
+# timestamp (sec): 1676575893.972800493
+# - - -
+Header: 
+  seq: 153
+  stamp: 
+    secs: 70294
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338138
+Longitude: -71.08626616666666
+Altitude: -8.5
+HDOP: 1.5499999523162842
+UTM_easting: 328134.54454282374
+UTM_northing: 4689428.297270514
+UTC: "193134.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193134.00,4220.28828,N,07105.17597,W,5,12,1.55,-8.5,M,-33.2,M,,0000*56"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       151
+# timestamp (sec): 1676575894.984723806
+# - - -
+Header: 
+  seq: 154
+  stamp: 
+    secs: 70295
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814133333333
+Longitude: -71.086271
+Altitude: -8.699999809265137
+HDOP: 1.309999942779541
+UTM_easting: 328134.1554402042
+UTM_northing: 4689428.677181107
+UTC: "193135.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193135.00,4220.28848,N,07105.17626,W,5,12,1.31,-8.7,M,-33.2,M,,0000*58"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       152
+# timestamp (sec): 1676575895.971186638
+# - - -
+Header: 
+  seq: 155
+  stamp: 
+    secs: 70296
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814233333333
+Longitude: -71.08627483333333
+Altitude: -9.0
+HDOP: 1.2000000476837158
+UTM_easting: 328133.8423635627
+UTM_northing: 4689428.795971597
+UTC: "193136.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193136.00,4220.28854,N,07105.17649,W,2,12,1.20,-9.0,M,-33.2,M,,0000*5E"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       153
+# timestamp (sec): 1676575896.976615429
+# - - -
+Header: 
+  seq: 156
+  stamp: 
+    secs: 70297
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814566666667
+Longitude: -71.08627783333333
+Altitude: -9.5
+HDOP: 1.809999942779541
+UTM_easting: 328133.6042962801
+UTM_northing: 4689429.172176601
+UTC: "193137.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193137.00,4220.28874,N,07105.17667,W,5,12,1.81,-9.5,M,-33.2,M,,0000*58"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       154
+# timestamp (sec): 1676575897.975344658
+# - - -
+Header: 
+  seq: 157
+  stamp: 
+    secs: 70298
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814916666667
+Longitude: -71.086282
+Altitude: -9.899999618530273
+HDOP: 1.5499999523162842
+UTM_easting: 328133.27056974504
+UTM_northing: 4689429.56924681
+UTC: "193138.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193138.00,4220.28895,N,07105.17692,W,5,12,1.55,-9.9,M,-33.2,M,,0000*57"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       155
+# timestamp (sec): 1676575898.974851131
+# - - -
+Header: 
+  seq: 158
+  stamp: 
+    secs: 70299
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815283333333
+Longitude: -71.08628633333333
+Altitude: -10.399999618530273
+HDOP: 1.5499999523162842
+UTM_easting: 328132.92356683896
+UTM_northing: 4689429.985160974
+UTC: "193139.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193139.00,4220.28917,N,07105.17718,W,5,12,1.55,-10.4,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       156
+# timestamp (sec): 1676575899.970551729
+# - - -
+Header: 
+  seq: 159
+  stamp: 
+    secs: 70300
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815633333333
+Longitude: -71.08628733333333
+Altitude: -10.199999809265137
+HDOP: 1.3899999856948853
+UTM_easting: 328132.85071944434
+UTM_northing: 4689430.375830555
+UTC: "193140.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193140.00,4220.28938,N,07105.17724,W,5,12,1.39,-10.2,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       157
+# timestamp (sec): 1676575900.976330996
+# - - -
+Header: 
+  seq: 160
+  stamp: 
+    secs: 70301
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338158166666666
+Longitude: -71.08628816666666
+Altitude: -10.399999618530273
+HDOP: 1.0499999523162842
+UTM_easting: 328132.78706183436
+UTM_northing: 4689430.5810926305
+UTC: "193141.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193141.00,4220.28949,N,07105.17729,W,5,12,1.05,-10.4,M,-33.2,M,,0000*68"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       158
+# timestamp (sec): 1676575901.976277590
+# - - -
+Header: 
+  seq: 161
+  stamp: 
+    secs: 70302
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815933333333
+Longitude: -71.08628916666666
+Altitude: -10.699999809265137
+HDOP: 1.5499999523162842
+UTM_easting: 328132.7078574683
+UTM_northing: 4689430.712663331
+UTC: "193142.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193142.00,4220.28956,N,07105.17735,W,5,12,1.55,-10.7,M,-33.2,M,,0000*6E"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       159
+# timestamp (sec): 1676575902.971221447
+# - - -
+Header: 
+  seq: 162
+  stamp: 
+    secs: 70303
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816016666667
+Longitude: -71.08628883333333
+Altitude: -11.0
+HDOP: 1.5499999523162842
+UTM_easting: 328132.7375887748
+UTM_northing: 4689430.804524894
+UTC: "193143.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193143.00,4220.28961,N,07105.17733,W,2,12,1.55,-11.0,M,-33.2,M,,0000*6C"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       160
+# timestamp (sec): 1676575903.978183985
+# - - -
+Header: 
+  seq: 163
+  stamp: 
+    secs: 70304
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816016666667
+Longitude: -71.08629266666667
+Altitude: -11.199999809265137
+HDOP: 1.2300000190734863
+UTM_easting: 328132.4217878217
+UTM_northing: 4689430.812273072
+UTC: "193144.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193144.00,4220.28961,N,07105.17756,W,2,12,1.23,-11.2,M,-33.2,M,,0000*6B"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       161
+# timestamp (sec): 1676575904.986608982
+# - - -
+Header: 
+  seq: 164
+  stamp: 
+    secs: 70305
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338161
+Longitude: -71.0862965
+Altitude: -11.699999809265137
+HDOP: 1.809999942779541
+UTM_easting: 328132.1082572292
+UTM_northing: 4689430.912556579
+UTC: "193145.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193145.00,4220.28966,N,07105.17779,W,5,12,1.81,-11.7,M,-33.2,M,,0000*6A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       162
+# timestamp (sec): 1676575905.983948708
+# - - -
+Header: 
+  seq: 165
+  stamp: 
+    secs: 70306
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338161666666664
+Longitude: -71.086297
+Altitude: -11.899999618530273
+HDOP: 1.190000057220459
+UTM_easting: 328132.0688820912
+UTM_northing: 4689430.987595465
+UTC: "193146.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193146.00,4220.28970,N,07105.17782,W,2,12,1.19,-11.9,M,-33.2,M,,0000*62"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       163
+# timestamp (sec): 1676575906.983061314
+# - - -
+Header: 
+  seq: 166
+  stamp: 
+    secs: 70307
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816183333333
+Longitude: -71.0862985
+Altitude: -12.100000381469727
+HDOP: 1.100000023841858
+UTM_easting: 328131.9457618819
+UTM_northing: 4689431.009134433
+UTC: "193147.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193147.00,4220.28971,N,07105.17791,W,2,12,1.10,-12.1,M,-33.2,M,,0000*62"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       164
+# timestamp (sec): 1676575907.985532045
+# - - -
+Header: 
+  seq: 167
+  stamp: 
+    secs: 70308
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816183333333
+Longitude: -71.08630283333333
+Altitude: -12.899999618530273
+HDOP: 1.190000057220459
+UTM_easting: 328131.58876951033
+UTM_northing: 4689431.0178932855
+UTC: "193148.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193148.00,4220.28971,N,07105.17817,W,5,12,1.19,-12.9,M,-33.2,M,,0000*6A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       165
+# timestamp (sec): 1676575908.979694128
+# - - -
+Header: 
+  seq: 168
+  stamp: 
+    secs: 70309
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816133333333
+Longitude: -71.0863045
+Altitude: -13.300000190734863
+HDOP: 1.2300000190734863
+UTM_easting: 328131.45010253135
+UTM_northing: 4689430.965740891
+UTC: "193149.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193149.00,4220.28968,N,07105.17827,W,5,12,1.23,-13.3,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       166
+# timestamp (sec): 1676575909.979906321
+# - - -
+Header: 
+  seq: 169
+  stamp: 
+    secs: 70310
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338161666666664
+Longitude: -71.0863065
+Altitude: -13.800000190734863
+HDOP: 1.3899999856948853
+UTM_easting: 328131.2862449685
+UTM_northing: 4689431.006797573
+UTC: "193150.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193150.00,4220.28970,N,07105.17839,W,5,12,1.39,-13.8,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       167
+# timestamp (sec): 1676575910.980986834
+# - - -
+Header: 
+  seq: 170
+  stamp: 
+    secs: 70311
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33816183333333
+Longitude: -71.08630883333333
+Altitude: -14.199999809265137
+HDOP: 1.559999942779541
+UTM_easting: 328131.09447238146
+UTM_northing: 4689431.030020957
+UTC: "193151.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193151.00,4220.28971,N,07105.17853,W,5,12,1.56,-14.2,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       168
+# timestamp (sec): 1676575911.977171898
+# - - -
+Header: 
+  seq: 171
+  stamp: 
+    secs: 70312
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3381605
+Longitude: -71.08631183333334
+Altitude: -14.399999618530273
+HDOP: 1.309999942779541
+UTM_easting: 328130.843691214
+UTM_northing: 4689430.888028303
+UTC: "193152.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193152.00,4220.28963,N,07105.17871,W,5,12,1.31,-14.4,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       169
+# timestamp (sec): 1676575912.984230757
+# - - -
+Header: 
+  seq: 172
+  stamp: 
+    secs: 70313
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338159166666664
+Longitude: -71.08631466666667
+Altitude: -14.899999618530273
+HDOP: 1.3899999856948853
+UTM_easting: 328130.60664051224
+UTM_northing: 4689430.745698775
+UTC: "193153.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193153.00,4220.28955,N,07105.17888,W,5,12,1.39,-14.9,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       170
+# timestamp (sec): 1676575913.975052118
+# - - -
+Header: 
+  seq: 173
+  stamp: 
+    secs: 70314
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338158
+Longitude: -71.08631816666667
+Altitude: -15.199999809265137
+HDOP: 1.309999942779541
+UTM_easting: 328130.3151219678
+UTM_northing: 4689430.623223847
+UTC: "193154.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193154.00,4220.28948,N,07105.17909,W,5,12,1.31,-15.2,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       171
+# timestamp (sec): 1676575914.980441093
+# - - -
+Header: 
+  seq: 174
+  stamp: 
+    secs: 70315
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338156
+Longitude: -71.086322
+Altitude: -15.5
+HDOP: 1.1100000143051147
+UTM_easting: 328129.9938720751
+UTM_northing: 4689430.408887378
+UTC: "193155.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193155.00,4220.28936,N,07105.17932,W,5,12,1.11,-15.5,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       172
+# timestamp (sec): 1676575915.977265596
+# - - -
+Header: 
+  seq: 175
+  stamp: 
+    secs: 70316
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815466666667
+Longitude: -71.08632666666666
+Altitude: -15.899999618530273
+HDOP: 1.8200000524520874
+UTM_easting: 328129.6057860849
+UTM_northing: 4689430.270263591
+UTC: "193156.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193156.00,4220.28928,N,07105.17960,W,5,12,1.82,-15.9,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       173
+# timestamp (sec): 1676575916.975569963
+# - - -
+Header: 
+  seq: 176
+  stamp: 
+    secs: 70317
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815366666666
+Longitude: -71.0863305
+Altitude: -16.200000762939453
+HDOP: 1.5700000524520874
+UTM_easting: 328129.28726062854
+UTM_northing: 4689430.166969532
+UTC: "193157.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193157.00,4220.28922,N,07105.17983,W,5,12,1.57,-16.2,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       174
+# timestamp (sec): 1676575917.972395658
+# - - -
+Header: 
+  seq: 177
+  stamp: 
+    secs: 70318
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338151333333336
+Longitude: -71.08633433333334
+Altitude: -16.399999618530273
+HDOP: 1.2899999618530273
+UTM_easting: 328128.9651025174
+UTM_northing: 4689429.915618985
+UTC: "193158.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193158.00,4220.28908,N,07105.18006,W,5,12,1.29,-16.4,M,-33.2,M,,0000*68"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       175
+# timestamp (sec): 1676575918.976885557
+# - - -
+Header: 
+  seq: 178
+  stamp: 
+    secs: 70319
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814866666667
+Longitude: -71.08634116666667
+Altitude: -17.299999237060547
+HDOP: 1.309999942779541
+UTM_easting: 328128.3948876074
+UTM_northing: 4689429.63331826
+UTC: "193159.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193159.00,4220.28892,N,07105.18047,W,5,12,1.31,-17.3,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       176
+# timestamp (sec): 1676575919.990703821
+# - - -
+Header: 
+  seq: 179
+  stamp: 
+    secs: 70320
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33815083333333
+Longitude: -71.0863445
+Altitude: -17.5
+HDOP: 1.940000057220459
+UTM_easting: 328128.1261811056
+UTM_northing: 4689429.880647791
+UTC: "193200.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193200.00,4220.28905,N,07105.18067,W,2,12,1.94,-17.5,M,-33.2,M,,0000*6D"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       177
+# timestamp (sec): 1676575920.976907253
+# - - -
+Header: 
+  seq: 180
+  stamp: 
+    secs: 70321
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338147166666666
+Longitude: -71.08634916666666
+Altitude: -17.700000762939453
+HDOP: 1.309999942779541
+UTM_easting: 328127.7317378773
+UTM_northing: 4689429.482925225
+UTC: "193201.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193201.00,4220.28883,N,07105.18095,W,5,12,1.31,-17.7,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       178
+# timestamp (sec): 1676575921.984069824
+# - - -
+Header: 
+  seq: 181
+  stamp: 
+    secs: 70322
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814433333333
+Longitude: -71.08635616666666
+Altitude: -18.5
+HDOP: 1.8200000524520874
+UTM_easting: 328127.14733831206
+UTM_northing: 4689429.182454423
+UTC: "193202.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193202.00,4220.28866,N,07105.18137,W,5,12,1.82,-18.5,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       179
+# timestamp (sec): 1676575922.976955652
+# - - -
+Header: 
+  seq: 182
+  stamp: 
+    secs: 70323
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33814566666667
+Longitude: -71.0863615
+Altitude: -18.899999618530273
+HDOP: 1.559999942779541
+UTM_easting: 328126.7115956533
+UTM_northing: 4689429.341291352
+UTC: "193203.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193203.00,4220.28874,N,07105.18169,W,2,12,1.56,-18.9,M,-33.2,M,,0000*6B"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       180
+# timestamp (sec): 1676575923.976673365
+# - - -
+Header: 
+  seq: 183
+  stamp: 
+    secs: 70324
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338142166666664
+Longitude: -71.08636933333334
+Altitude: -19.700000762939453
+HDOP: 1.3700000047683716
+UTM_easting: 328126.0567272764
+UTM_northing: 4689428.968476832
+UTC: "193204.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193204.00,4220.28853,N,07105.18216,W,5,12,1.37,-19.7,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       181
+# timestamp (sec): 1676575924.973218679
+# - - -
+Header: 
+  seq: 184
+  stamp: 
+    secs: 70325
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33813966666666
+Longitude: -71.086374
+Altitude: -19.899999618530273
+HDOP: 1.2300000190734863
+UTM_easting: 328125.66546249925
+UTM_northing: 4689428.700303817
+UTC: "193205.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193205.00,4220.28838,N,07105.18244,W,5,12,1.23,-19.9,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       182
+# timestamp (sec): 1676575925.984107256
+# - - -
+Header: 
+  seq: 185
+  stamp: 
+    secs: 70326
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338139166666664
+Longitude: -71.08637733333333
+Altitude: -20.700000762939453
+HDOP: 1.2899999618530273
+UTM_easting: 328125.3894906163
+UTM_northing: 4689428.651520449
+UTC: "193206.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193206.00,4220.28835,N,07105.18264,W,5,12,1.29,-20.7,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       183
+# timestamp (sec): 1676575926.971666574
+# - - -
+Header: 
+  seq: 186
+  stamp: 
+    secs: 70327
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33813716666667
+Longitude: -71.086381
+Altitude: -21.5
+HDOP: 1.590000033378601
+UTM_easting: 328125.08197095443
+UTM_northing: 4689428.436847309
+UTC: "193207.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193207.00,4220.28823,N,07105.18286,W,5,12,1.59,-21.5,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       184
+# timestamp (sec): 1676575927.977301359
+# - - -
+Header: 
+  seq: 187
+  stamp: 
+    secs: 70328
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338133666666664
+Longitude: -71.0863875
+Altitude: -22.0
+HDOP: 1.559999942779541
+UTM_easting: 328124.5369462599
+UTM_northing: 4689428.06133779
+UTC: "193208.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193208.00,4220.28802,N,07105.18325,W,5,12,1.56,-22.0,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       185
+# timestamp (sec): 1676575928.977914810
+# - - -
+Header: 
+  seq: 188
+  stamp: 
+    secs: 70329
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33813
+Longitude: -71.08639433333333
+Altitude: -22.399999618530273
+HDOP: 1.2899999618530273
+UTM_easting: 328123.9640064462
+UTM_northing: 4689427.667995039
+UTC: "193209.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193209.00,4220.28780,N,07105.18366,W,5,12,1.29,-22.4,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       186
+# timestamp (sec): 1676575929.980518103
+# - - -
+Header: 
+  seq: 189
+  stamp: 
+    secs: 70330
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338130666666665
+Longitude: -71.08639883333333
+Altitude: -22.700000762939453
+HDOP: 1.2899999618530273
+UTM_easting: 328123.5950997864
+UTM_northing: 4689427.751119439
+UTC: "193210.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193210.00,4220.28784,N,07105.18393,W,2,12,1.29,-22.7,M,-33.2,M,,0000*61"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       187
+# timestamp (sec): 1676575930.975484133
+# - - -
+Header: 
+  seq: 190
+  stamp: 
+    secs: 70331
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3381235
+Longitude: -71.08641
+Altitude: -22.899999618530273
+HDOP: 1.3899999856948853
+UTM_easting: 328122.65563129465
+UTM_northing: 4689426.977887741
+UTC: "193211.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193211.00,4220.28741,N,07105.18460,W,5,12,1.39,-22.9,M,-33.2,M,,0000*6A"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       188
+# timestamp (sec): 1676575931.980099440
+# - - -
+Header: 
+  seq: 191
+  stamp: 
+    secs: 70332
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33811883333333
+Longitude: -71.08641816666666
+Altitude: -23.200000762939453
+HDOP: 1.559999942779541
+UTM_easting: 328121.97012281354
+UTM_northing: 4689426.476197944
+UTC: "193212.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193212.00,4220.28713,N,07105.18509,W,5,12,1.56,-23.2,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       189
+# timestamp (sec): 1676575932.980354071
+# - - -
+Header: 
+  seq: 192
+  stamp: 
+    secs: 70333
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338116
+Longitude: -71.086425
+Altitude: -23.5
+HDOP: 1.309999942779541
+UTM_easting: 328121.39945322083
+UTM_northing: 4689426.17539071
+UTC: "193213.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193213.00,4220.28696,N,07105.18550,W,5,12,1.31,-23.5,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       190
+# timestamp (sec): 1676575933.979110956
+# - - -
+Header: 
+  seq: 193
+  stamp: 
+    secs: 70334
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338113666666665
+Longitude: -71.08642966666666
+Altitude: -23.5
+HDOP: 1.559999942779541
+UTM_easting: 328121.00864220504
+UTM_northing: 4689425.925725011
+UTC: "193214.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193214.00,4220.28682,N,07105.18578,W,5,12,1.56,-23.5,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       191
+# timestamp (sec): 1676575934.984029055
+# - - -
+Header: 
+  seq: 194
+  stamp: 
+    secs: 70335
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33811083333333
+Longitude: -71.08643516666666
+Altitude: -23.5
+HDOP: 1.1299999952316284
+UTM_easting: 328120.54781642207
+UTM_northing: 4689425.622222645
+UTC: "193215.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193215.00,4220.28665,N,07105.18611,W,5,12,1.13,-23.5,M,-33.2,M,,0000*68"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       192
+# timestamp (sec): 1676575935.980780602
+# - - -
+Header: 
+  seq: 195
+  stamp: 
+    secs: 70336
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33810716666667
+Longitude: -71.08644133333334
+Altitude: -23.600000381469727
+HDOP: 1.2300000190734863
+UTM_easting: 328120.02979812876
+UTM_northing: 4689425.227532603
+UTC: "193216.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193216.00,4220.28643,N,07105.18648,W,5,12,1.23,-23.6,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       193
+# timestamp (sec): 1676575936.980627298
+# - - -
+Header: 
+  seq: 196
+  stamp: 
+    secs: 70337
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33810666666667
+Longitude: -71.08644516666666
+Altitude: -23.899999618530273
+HDOP: 1.4199999570846558
+UTM_easting: 328119.71263459703
+UTM_northing: 4689425.179760157
+UTC: "193217.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193217.00,4220.28640,N,07105.18671,W,2,12,1.42,-23.9,M,-33.2,M,,0000*64"
+Quality: "2"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       194
+# timestamp (sec): 1676575937.987074375
+# - - -
+Header: 
+  seq: 197
+  stamp: 
+    secs: 70338
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33810366666667
+Longitude: -71.0864515
+Altitude: -24.100000381469727
+HDOP: 1.1100000143051147
+UTM_easting: 328119.182702158
+UTM_northing: 4689424.859435329
+UTC: "193218.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193218.00,4220.28622,N,07105.18709,W,5,12,1.11,-24.1,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       195
+# timestamp (sec): 1676575938.978882551
+# - - -
+Header: 
+  seq: 198
+  stamp: 
+    secs: 70339
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338100833333336
+Longitude: -71.08646
+Altitude: -25.0
+HDOP: 1.149999976158142
+UTM_easting: 328118.4747274142
+UTM_northing: 4689424.561997359
+UTC: "193219.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193219.00,4220.28605,N,07105.18760,W,5,12,1.15,-25.0,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       196
+# timestamp (sec): 1676575939.980290651
+# - - -
+Header: 
+  seq: 199
+  stamp: 
+    secs: 70340
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338099
+Longitude: -71.08646516666667
+Altitude: -25.5
+HDOP: 1.3899999856948853
+UTM_easting: 328118.0440870569
+UTM_northing: 4689424.368863724
+UTC: "193220.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193220.00,4220.28594,N,07105.18791,W,5,12,1.39,-25.5,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       197
+# timestamp (sec): 1676575940.981430292
+# - - -
+Header: 
+  seq: 200
+  stamp: 
+    secs: 70341
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338095833333334
+Longitude: -71.086471
+Altitude: -25.799999237060547
+HDOP: 1.3899999856948853
+UTM_easting: 328117.55489183695
+UTM_northing: 4689424.029021234
+UTC: "193221.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193221.00,4220.28575,N,07105.18826,W,5,12,1.39,-25.8,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       198
+# timestamp (sec): 1676575941.980034590
+# - - -
+Header: 
+  seq: 201
+  stamp: 
+    secs: 70342
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380935
+Longitude: -71.086477
+Altitude: -26.0
+HDOP: 1.3899999856948853
+UTM_easting: 328117.05423663283
+UTM_northing: 4689423.782051002
+UTC: "193222.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193222.00,4220.28561,N,07105.18862,W,5,12,1.39,-26.0,M,-33.2,M,,0000*69"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       199
+# timestamp (sec): 1676575942.973844528
+# - - -
+Header: 
+  seq: 202
+  stamp: 
+    secs: 70343
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380915
+Longitude: -71.08648216666667
+Altitude: -26.299999237060547
+HDOP: 1.1100000143051147
+UTM_easting: 328116.6231420736
+UTM_northing: 4689423.570410387
+UTC: "193223.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193223.00,4220.28549,N,07105.18893,W,5,12,1.11,-26.3,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       200
+# timestamp (sec): 1676575943.985816956
+# - - -
+Header: 
+  seq: 203
+  stamp: 
+    secs: 70344
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33809
+Longitude: -71.08648733333334
+Altitude: -26.600000381469727
+HDOP: 1.0199999809265137
+UTM_easting: 328116.1934098267
+UTM_northing: 4689423.414290988
+UTC: "193224.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193224.00,4220.28540,N,07105.18924,W,5,12,1.02,-26.6,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       201
+# timestamp (sec): 1676575944.980641127
+# - - -
+Header: 
+  seq: 204
+  stamp: 
+    secs: 70345
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33808783333333
+Longitude: -71.08649116666666
+Altitude: -26.799999237060547
+HDOP: 1.0700000524520874
+UTM_easting: 328115.87170503696
+UTM_northing: 4689423.181448084
+UTC: "193225.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193225.00,4220.28527,N,07105.18947,W,5,12,1.07,-26.8,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       202
+# timestamp (sec): 1676575945.982241154
+# - - -
+Header: 
+  seq: 205
+  stamp: 
+    secs: 70346
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33808633333334
+Longitude: -71.08649633333333
+Altitude: -27.0
+HDOP: 1.0700000524520874
+UTM_easting: 328115.4419727478
+UTM_northing: 4689423.02532873
+UTC: "193226.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193226.00,4220.28518,N,07105.18978,W,5,12,1.07,-27.0,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       203
+# timestamp (sec): 1676575946.981192112
+# - - -
+Header: 
+  seq: 206
+  stamp: 
+    secs: 70347
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380835
+Longitude: -71.08650066666667
+Altitude: -27.0
+HDOP: 1.0700000524520874
+UTM_easting: 328115.0772599728
+UTM_northing: 4689422.719468342
+UTC: "193227.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193227.00,4220.28501,N,07105.19004,W,5,12,1.07,-27.0,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       204
+# timestamp (sec): 1676575947.979364395
+# - - -
+Header: 
+  seq: 207
+  stamp: 
+    secs: 70348
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338080833333336
+Longitude: -71.08650466666667
+Altitude: -27.0
+HDOP: 1.1100000143051147
+UTM_easting: 328114.7404622695
+UTM_northing: 4689422.431441211
+UTC: "193228.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193228.00,4220.28485,N,07105.19028,W,5,12,1.11,-27.0,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       205
+# timestamp (sec): 1676575948.979987860
+# - - -
+Header: 
+  seq: 208
+  stamp: 
+    secs: 70349
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33807633333333
+Longitude: -71.08650783333333
+Altitude: -26.799999237060547
+HDOP: 1.0700000524520874
+UTM_easting: 328114.46732172027
+UTM_northing: 4689421.93815184
+UTC: "193229.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193229.00,4220.28458,N,07105.19047,W,5,12,1.07,-26.8,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       206
+# timestamp (sec): 1676575949.987725019
+# - - -
+Header: 
+  seq: 209
+  stamp: 
+    secs: 70350
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338073666666666
+Longitude: -71.08650966666667
+Altitude: -26.399999618530273
+HDOP: 1.0700000524520874
+UTM_easting: 328114.3090203932
+UTM_northing: 4689421.645744872
+UTC: "193230.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193230.00,4220.28442,N,07105.19058,W,5,12,1.07,-26.4,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       207
+# timestamp (sec): 1676575950.976660967
+# - - -
+Header: 
+  seq: 210
+  stamp: 
+    secs: 70351
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338069833333336
+Longitude: -71.086511
+Altitude: -25.899999618530273
+HDOP: 1.0700000524520874
+UTM_easting: 328114.1887317176
+UTM_northing: 4689421.222777728
+UTC: "193231.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193231.00,4220.28419,N,07105.19066,W,5,12,1.07,-25.9,M,-33.2,M,,0000*6F"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       208
+# timestamp (sec): 1676575951.979457378
+# - - -
+Header: 
+  seq: 211
+  stamp: 
+    secs: 70352
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33806516666667
+Longitude: -71.086513
+Altitude: -25.100000381469727
+HDOP: 1.0700000524520874
+UTM_easting: 328114.01125044643
+UTM_northing: 4689420.708622922
+UTC: "193232.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193232.00,4220.28391,N,07105.19078,W,5,12,1.07,-25.1,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       209
+# timestamp (sec): 1676575952.985122681
+# - - -
+Header: 
+  seq: 212
+  stamp: 
+    secs: 70353
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33806166666667
+Longitude: -71.08651616666667
+Altitude: -24.899999618530273
+HDOP: 1.0
+UTM_easting: 328113.7408344997
+UTM_northing: 4689420.326375958
+UTC: "193233.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193233.00,4220.28370,N,07105.19097,W,5,12,1.00,-24.9,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       210
+# timestamp (sec): 1676575953.986447811
+# - - -
+Header: 
+  seq: 213
+  stamp: 
+    secs: 70354
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33805733333333
+Longitude: -71.08651933333333
+Altitude: -23.899999618530273
+HDOP: 1.0
+UTM_easting: 328113.46814792545
+UTM_northing: 4689419.851593686
+UTC: "193234.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193234.00,4220.28344,N,07105.19116,W,5,12,1.00,-23.9,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       211
+# timestamp (sec): 1676575954.984980345
+# - - -
+Header: 
+  seq: 214
+  stamp: 
+    secs: 70355
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338052833333336
+Longitude: -71.08652366666666
+Altitude: -23.299999237060547
+HDOP: 1.0299999713897705
+UTM_easting: 328113.0988936998
+UTM_northing: 4689419.360662767
+UTC: "193235.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193235.00,4220.28317,N,07105.19142,W,5,12,1.03,-23.3,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       212
+# timestamp (sec): 1676575955.990345716
+# - - -
+Header: 
+  seq: 215
+  stamp: 
+    secs: 70356
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33804933333333
+Longitude: -71.08652733333334
+Altitude: -22.600000381469727
+HDOP: 1.0
+UTM_easting: 328112.7872861547
+UTM_northing: 4689418.97942658
+UTC: "193236.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193236.00,4220.28296,N,07105.19164,W,5,12,1.00,-22.6,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       213
+# timestamp (sec): 1676575956.985362768
+# - - -
+Header: 
+  seq: 216
+  stamp: 
+    secs: 70357
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33804633333333
+Longitude: -71.08653166666667
+Altitude: -22.200000762939453
+HDOP: 1.0
+UTM_easting: 328112.4221189378
+UTM_northing: 4689418.655059259
+UTC: "193237.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193237.00,4220.28278,N,07105.19190,W,5,12,1.00,-22.2,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       214
+# timestamp (sec): 1676575957.982149601
+# - - -
+Header: 
+  seq: 217
+  stamp: 
+    secs: 70358
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33804266666667
+Longitude: -71.0865365
+Altitude: -22.0
+HDOP: 0.9700000286102295
+UTM_easting: 328112.013943689
+UTM_northing: 4689418.257674456
+UTC: "193238.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193238.00,4220.28256,N,07105.19219,W,5,12,0.97,-22.0,M,-33.2,M,,0000*67"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       215
+# timestamp (sec): 1676575958.985641003
+# - - -
+Header: 
+  seq: 218
+  stamp: 
+    secs: 70359
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338040166666666
+Longitude: -71.08654083333333
+Altitude: -21.799999237060547
+HDOP: 1.0
+UTM_easting: 328111.6501387722
+UTM_northing: 4689417.988828362
+UTC: "193239.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193239.00,4220.28241,N,07105.19245,W,5,12,1.00,-21.8,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       216
+# timestamp (sec): 1676575959.984266043
+# - - -
+Header: 
+  seq: 219
+  stamp: 
+    secs: 70360
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33803666666667
+Longitude: -71.08654683333333
+Altitude: -21.5
+HDOP: 1.0
+UTM_easting: 328111.1463040461
+UTM_northing: 4689417.612309092
+UTC: "193240.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193240.00,4220.28220,N,07105.19281,W,5,12,1.00,-21.5,M,-33.2,M,,0000*61"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       217
+# timestamp (sec): 1676575960.983140469
+# - - -
+Header: 
+  seq: 220
+  stamp: 
+    secs: 70361
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33803266666666
+Longitude: -71.08655216666666
+Altitude: -21.100000381469727
+HDOP: 1.0
+UTM_easting: 328110.6960288981
+UTM_northing: 4689417.178920994
+UTC: "193241.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193241.00,4220.28196,N,07105.19313,W,5,12,1.00,-21.1,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       218
+# timestamp (sec): 1676575961.981822491
+# - - -
+Header: 
+  seq: 221
+  stamp: 
+    secs: 70362
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338029166666665
+Longitude: -71.08655583333334
+Altitude: -20.700000762939453
+HDOP: 1.0
+UTM_easting: 328110.3844211291
+UTM_northing: 4689416.79768491
+UTC: "193242.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193242.00,4220.28175,N,07105.19335,W,5,12,1.00,-20.7,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       219
+# timestamp (sec): 1676575962.976424932
+# - - -
+Header: 
+  seq: 222
+  stamp: 
+    secs: 70363
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33802516666667
+Longitude: -71.08655866666666
+Altitude: -20.299999237060547
+HDOP: 1.2799999713897705
+UTM_easting: 328110.14010347193
+UTM_northing: 4689416.359243045
+UTC: "193243.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193243.00,4220.28151,N,07105.19352,W,5,12,1.28,-20.3,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       220
+# timestamp (sec): 1676575963.985247850
+# - - -
+Header: 
+  seq: 223
+  stamp: 
+    secs: 70364
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338021
+Longitude: -71.086562
+Altitude: -19.799999237060547
+HDOP: 1.2400000095367432
+UTM_easting: 328109.85414013383
+UTM_northing: 4689415.90330489
+UTC: "193244.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193244.00,4220.28126,N,07105.19372,W,5,12,1.24,-19.8,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       221
+# timestamp (sec): 1676575964.983920574
+# - - -
+Header: 
+  seq: 224
+  stamp: 
+    secs: 70365
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33801833333333
+Longitude: -71.08656633333334
+Altitude: -19.399999618530273
+HDOP: 1.0
+UTM_easting: 328109.48988088354
+UTM_northing: 4689415.61595184
+UTC: "193245.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193245.00,4220.28110,N,07105.19398,W,5,12,1.00,-19.4,M,-33.2,M,,0000*67"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       222
+# timestamp (sec): 1676575965.977131605
+# - - -
+Header: 
+  seq: 225
+  stamp: 
+    secs: 70366
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380145
+Longitude: -71.08656883333333
+Altitude: -18.899999618530273
+HDOP: 1.0
+UTM_easting: 328109.27347827936
+UTM_northing: 4689415.195343225
+UTC: "193246.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193246.00,4220.28087,N,07105.19413,W,5,12,1.00,-18.9,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       223
+# timestamp (sec): 1676575966.985907078
+# - - -
+Header: 
+  seq: 226
+  stamp: 
+    secs: 70367
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3380115
+Longitude: -71.086573
+Altitude: -18.600000381469727
+HDOP: 1.2599999904632568
+UTM_easting: 328108.92204121756
+UTM_northing: 4689414.870639157
+UTC: "193247.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193247.00,4220.28069,N,07105.19438,W,5,12,1.26,-18.6,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       224
+# timestamp (sec): 1676575967.986797333
+# - - -
+Header: 
+  seq: 227
+  stamp: 
+    secs: 70368
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33800866666667
+Longitude: -71.08657733333334
+Altitude: -18.399999618530273
+HDOP: 1.2599999904632568
+UTM_easting: 328108.5573277464
+UTM_northing: 4689414.564779089
+UTC: "193248.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193248.00,4220.28052,N,07105.19464,W,5,12,1.26,-18.4,M,-33.2,M,,0000*6C"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       225
+# timestamp (sec): 1676575968.983910561
+# - - -
+Header: 
+  seq: 228
+  stamp: 
+    secs: 70369
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338005833333334
+Longitude: -71.08658066666666
+Altitude: -18.0
+HDOP: 0.9700000286102295
+UTM_easting: 328108.2749973017
+UTM_northing: 4689414.256897497
+UTC: "193249.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193249.00,4220.28035,N,07105.19484,W,5,12,0.97,-18.0,M,-33.2,M,,0000*6D"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       226
+# timestamp (sec): 1676575969.977370024
+# - - -
+Header: 
+  seq: 229
+  stamp: 
+    secs: 70370
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.338002
+Longitude: -71.08658283333334
+Altitude: -17.399999618530273
+HDOP: 1.2400000095367432
+UTM_easting: 328108.0860556062
+UTM_northing: 4689413.835615069
+UTC: "193250.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193250.00,4220.28012,N,07105.19497,W,5,12,1.24,-17.4,M,-33.2,M,,0000*60"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       227
+# timestamp (sec): 1676575970.982613564
+# - - -
+Header: 
+  seq: 230
+  stamp: 
+    secs: 70371
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379985
+Longitude: -71.086585
+Altitude: -16.899999618530273
+HDOP: 0.9700000286102295
+UTM_easting: 328107.8980221611
+UTM_northing: 4689413.451346767
+UTC: "193251.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193251.00,4220.27991,N,07105.19510,W,5,12,0.97,-16.9,M,-33.2,M,,0000*67"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       228
+# timestamp (sec): 1676575971.988758564
+# - - -
+Header: 
+  seq: 231
+  stamp: 
+    secs: 70372
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379945
+Longitude: -71.086587
+Altitude: -16.100000381469727
+HDOP: 0.9700000286102295
+UTM_easting: 328107.72235680686
+UTM_northing: 4689413.011220361
+UTC: "193252.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193252.00,4220.27967,N,07105.19522,W,5,12,0.97,-16.1,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       229
+# timestamp (sec): 1676575972.982359409
+# - - -
+Header: 
+  seq: 232
+  stamp: 
+    secs: 70373
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33799033333333
+Longitude: -71.08658816666667
+Altitude: -15.100000381469727
+HDOP: 1.2400000095367432
+UTM_easting: 328107.61488986167
+UTM_northing: 4689412.550902267
+UTC: "193253.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193253.00,4220.27942,N,07105.19529,W,5,12,1.24,-15.1,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       230
+# timestamp (sec): 1676575973.986785650
+# - - -
+Header: 
+  seq: 233
+  stamp: 
+    secs: 70374
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33798683333333
+Longitude: -71.08658816666667
+Altitude: -14.300000190734863
+HDOP: 0.9700000286102295
+UTM_easting: 328107.60535304365
+UTM_northing: 4689412.16225395
+UTC: "193254.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193254.00,4220.27921,N,07105.19529,W,5,12,0.97,-14.3,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       231
+# timestamp (sec): 1676575974.978416681
+# - - -
+Header: 
+  seq: 234
+  stamp: 
+    secs: 70375
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.3379835
+Longitude: -71.08658516666667
+Altitude: -13.300000190734863
+HDOP: 0.9700000286102295
+UTM_easting: 328107.8434196294
+UTM_northing: 4689411.786048046
+UTC: "193255.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193255.00,4220.27901,N,07105.19511,W,5,12,0.97,-13.3,M,-33.2,M,,0000*64"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       232
+# timestamp (sec): 1676575975.993822575
+# - - -
+Header: 
+  seq: 235
+  stamp: 
+    secs: 70376
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33797883333333
+Longitude: -71.08658316666667
+Altitude: -12.600000381469727
+HDOP: 0.9700000286102295
+UTM_easting: 328107.99547008146
+UTM_northing: 4689411.263807195
+UTC: "193256.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193256.00,4220.27873,N,07105.19499,W,5,12,0.97,-12.6,M,-33.2,M,,0000*66"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       233
+# timestamp (sec): 1676575976.985673189
+# - - -
+Header: 
+  seq: 236
+  stamp: 
+    secs: 70377
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33797533333333
+Longitude: -71.0865795
+Altitude: -12.0
+HDOP: 0.9700000286102295
+UTM_easting: 328108.28800465696
+UTM_northing: 4689410.86774655
+UTC: "193257.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193257.00,4220.27852,N,07105.19477,W,5,12,0.97,-12.0,M,-33.2,M,,0000*62"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       234
+# timestamp (sec): 1676575977.981588364
+# - - -
+Header: 
+  seq: 237
+  stamp: 
+    secs: 70378
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337971833333334
+Longitude: -71.08657516666666
+Altitude: -11.600000381469727
+HDOP: 0.9700000286102295
+UTM_easting: 328108.63546133507
+UTM_northing: 4689410.470338224
+UTC: "193258.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193258.00,4220.27831,N,07105.19451,W,5,12,0.97,-11.6,M,-33.2,M,,0000*69"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       235
+# timestamp (sec): 1676575978.984242916
+# - - -
+Header: 
+  seq: 238
+  stamp: 
+    secs: 70379
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337969
+Longitude: -71.08657
+Altitude: -11.300000190734863
+HDOP: 1.0
+UTM_easting: 328109.053387163
+UTM_northing: 4689410.145273557
+UTC: "193259.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193259.00,4220.27814,N,07105.19420,W,5,12,1.00,-11.3,M,-33.2,M,,0000*63"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       236
+# timestamp (sec): 1676575979.991804123
+# - - -
+Header: 
+  seq: 239
+  stamp: 
+    secs: 70380
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337966
+Longitude: -71.086566
+Altitude: -11.100000381469727
+HDOP: 1.2400000095367432
+UTM_easting: 328109.3747452698
+UTM_northing: 4689409.804060304
+UTC: "193300.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193300.00,4220.27796,N,07105.19396,W,5,12,1.24,-11.1,M,-33.2,M,,0000*65"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       237
+# timestamp (sec): 1676575980.984444618
+# - - -
+Header: 
+  seq: 240
+  stamp: 
+    secs: 70381
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.33796316666667
+Longitude: -71.08656216666667
+Altitude: -11.0
+HDOP: 1.0199999809265137
+UTM_easting: 328109.68282701756
+UTM_northing: 4689409.4816910485
+UTC: "193301.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193301.00,4220.27779,N,07105.19373,W,5,12,1.02,-11.0,M,-33.2,M,,0000*6B"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       238
+# timestamp (sec): 1676575981.991084576
+# - - -
+Header: 
+  seq: 241
+  stamp: 
+    secs: 70382
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337962
+Longitude: -71.08656066666667
+Altitude: -10.100000381469727
+HDOP: 0.9700000286102295
+UTM_easting: 328109.803222797
+UTM_northing: 4689409.349109323
+UTC: "193302.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193302.00,4220.27772,N,07105.19364,W,5,12,0.97,-10.1,M,-33.2,M,,0000*68"
+Quality: "5"
+
+# =======================================
+# topic:           /gnss
+# msg_count:       239
+# timestamp (sec): 1676575982.987251043
+# - - -
+Header: 
+  seq: 242
+  stamp: 
+    secs: 70383
+    nsecs:         0
+  frame_id: "GPS1_Frame"
+Latitude: 42.337962
+Longitude: -71.08655966666667
+Altitude: -9.399999618530273
+HDOP: 0.9700000286102295
+UTM_easting: 328109.88560591254
+UTM_northing: 4689409.347087799
+UTC: "193303.00"
+Zone: 19
+Letter: "T"
+Raw: "$GNGGA,193303.00,4220.27772,N,07105.19358,W,5,12,0.97,-9.4,M,-33.2,M,,0000*5B"
+Quality: "5"
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Total messages found:              239
+#
+#    /gnss:                          239
+#
+# DONE.
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

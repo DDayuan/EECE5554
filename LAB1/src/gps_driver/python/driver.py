@@ -31,8 +31,8 @@ def readgps():
             data = line.split(",")
 
             raw_time = float(data[1])
-            lat = float(data[2])
-            longi = float(data[4])
+            lat = data[2]
+            longi = data[4]
             alti = float(data[9])
 
             utc_hrs = raw_time//10000
@@ -47,12 +47,15 @@ def readgps():
             if data[5]=='W':
                 longi = -longi
 
-            lat_degree = lat // 100
-            longi_degree = longi // 100
-            lat_min = lat - (lat_degree * 100)
-            longi_min = longi - (longi_degree * 100)
-            new_lat = float(lat_degree + lat_min)
-            new_longi = float(longi_degree + longi_min)
+            #lat_degree = lat // 100
+            #longi_degree = longi // 100
+            #lat_min = lat - (lat_degree * 100)
+            #longi_min = longi - (longi_degree * 100)
+            #new_lat = float(lat_degree + lat_min)
+            #new_longi = float(longi_degree + longi_min)
+            
+            new_lat = float(lat[:2]) + float(lat[2:]) / 60
+            new_longi = float(longi[:2]) + float(longi[2:]) / 60
 
             utm_data = utm.from_latlon(new_lat, new_longi)
             #msg.Header.stamp.secs = int(data[1])

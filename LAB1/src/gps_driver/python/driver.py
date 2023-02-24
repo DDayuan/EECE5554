@@ -7,23 +7,18 @@ from gps_driver.msg import gps_msg
 
 
 def readgps():
-    rospy.init_node("gps_Publisher", anonymous=True)
-    port = rospy.get_param('~port', '/dev/ttyUSB0')
+    port = rospy.get_param('~port')
     #port = arg_port if arg_port != 'None' else '/dev/ttyUSB0'
     #parser = argparse.ArgumentParser(description= "port path")
     #parser.add_argument('port', metavar='port', type = str, help = 'enter port path')
     #args = parser.parse_args()
     #port1 = args.port
     #print(port1)
-    port = rospy.get_param('/gps_Publisher/port')
-    
-	#baud = rospy.get_param('~gps_baudrate', 57600)
-    #ser = serial.Serial(port, 57600, timeout=1)
 
     #ser = serial.Serial('/dev/ttyUSB0', 4800, timeout = 1)
     ser = serial.Serial(port, 4800, timeout = 1)
 
-    #rospy.init_node("gps_Publisher", anonymous=True)
+    rospy.init_node("gps_Publisher", anonymous=True)
     pub = rospy.Publisher("/gps", gps_msg, queue_size= 10)
     msg = gps_msg()
     while not rospy.is_shutdown():
@@ -50,10 +45,7 @@ def readgps():
 
             if data[5]=='W':
                 longi = -longi
-                
-            #header = Header()
-            #header.frame_id = "GPS1_FRAME"
-            msg.Header = header
+
             lat_degree = lat // 100
             longi_degree = longi // 100
             lat_min = lat - (lat_degree * 100)
@@ -65,11 +57,10 @@ def readgps():
             #msg.Header.stamp.secs = int(data[1])
             msg.Header.stamp.secs = int(utc_final_secs)
             msg.Header.stamp.nsecs = int(utc_final_nsecs)
-            msg.Header.frame_id = str(GPS1_FRAME)
+            msg.Header.frame_id = "GPS1_FRAME"
             msg.Latitude = new_lat
             msg.Longitude = new_longi
             msg.Altitude = alti
-            #msg.Header.frame_id = "GPS1_FRAME"
             msg.HDOP = float(data[8])
             msg.UTM_easting = utm_data[0]
             msg.UTM_northing = utm_data[1]
@@ -77,6 +68,7 @@ def readgps():
             msg.Zone = utm_data[2]
             msg.Letter = utm_data[3]
             pub.publish(msg)
+            print(msg.HDOP)
 
 
 if __name__ == '__main__':

@@ -7,7 +7,8 @@ from gps_driver.msg import gps_msg
 
 
 def readgps():
-    port = rospy.get_param('~port')
+    rospy.init_node("gps_Publisher", anonymous=True)
+    port = rospy.get_param('~/gps_Publisher/port')
     #port = arg_port if arg_port != 'None' else '/dev/ttyUSB0'
     #parser = argparse.ArgumentParser(description= "port path")
     #parser.add_argument('port', metavar='port', type = str, help = 'enter port path')
@@ -18,11 +19,11 @@ def readgps():
     #ser = serial.Serial('/dev/ttyUSB0', 4800, timeout = 1)
     ser = serial.Serial(port, 4800, timeout = 1)
 
-    rospy.init_node("gps_Publisher", anonymous=True)
+    #rospy.init_node("gps_Publisher", anonymous=True)
     pub = rospy.Publisher("/gps", gps_msg, queue_size= 10)
     msg = gps_msg()
     while not rospy.is_shutdown():
-        x = ser.readline()
+        x = ser.readline().decode("utf-8").strip()
         print(x)
         line = str(x)
         if "GPGGA" in line:

@@ -1,0 +1,12 @@
+<launch>
+    <arg name="port" default="/dev/ttyUSB0"/>
+
+    
+    <node pkg="imu_driver" type="service_server.py" name="convert_imu_service_server" output="screen">
+    </node>
+
+    <node pkg="imu_driver" type="driver.py" name="imu_Publisher" output="screen">
+    <param name="port" value="$(arg port)"/>    
+    </node> 
+
+</launch>

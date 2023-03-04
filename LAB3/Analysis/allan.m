@@ -48,6 +48,29 @@ ylabel('\sigma(\tau)')
 grid on
 axis equal
 
+figure
+plot(gyrox, 'Linewidth', 2)
+legend('gyrox')
+title('gyro x')
+xlabel('time')
+ylabel('rad/s')
+grid on
+
+figure
+plot(gyroy, 'Linewidth', 2)
+legend('gyroy')
+title('gyro y')
+xlabel('time')
+ylabel('rad/s')
+grid on
+
+figure
+plot(gyroz, 'Linewidth', 2)
+legend('gyroz')
+title('gyro z')
+xlabel('time')
+ylabel('rad/s')
+grid on
 Nx = calculateN(taux, adevx)
 Ny = calculateN(tauy, adevy)
 Nz = calculateN(tauz, adevz)
